@@ -1,11 +1,11 @@
+# MidJourney调教指南
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Banner/banner_dark.png?raw=true">
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
   <img alt="Midjourney Styles and Keywords Reference" src="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
 </picture>
 <br><br>
-
-<blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
 
 <hr><!--------------->
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-  <h3><pre>Styles</pre></h3>
+  <h3><pre>样式</pre></h3>
 
 <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Rainbow_of_Colors.md">
   <picture>
@@ -227,7 +227,7 @@
 
 <div align="center">
 
-<h3><pre>Comparison Pages</pre></h3>
+<h3><pre>对比页面</pre></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_writing.webp?raw=true" width = 758>
@@ -387,7 +387,4 @@
 
 </div>
 
-<hr><!--------------->
-<div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">Created By Will Wulfken</a></h6>
-</div>
+原仓库地址：https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
