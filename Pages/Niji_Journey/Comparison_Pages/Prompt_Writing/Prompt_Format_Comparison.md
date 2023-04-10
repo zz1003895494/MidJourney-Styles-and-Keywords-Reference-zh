@@ -2,7 +2,7 @@
 
 <hr><!--------------->
 
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%E2%9D%94-How-To-Guide#-creating-an-image">❔ How To Create an Image</a></h6>
+<h6><a href="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/wiki/%E2%9D%94-How-To-Guide#-creating-an-image">❔ How To Create an Image</a></h6>
 
 <hr><!--------------->
 

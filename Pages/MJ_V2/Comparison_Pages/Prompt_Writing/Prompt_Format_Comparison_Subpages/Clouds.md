@@ -21,7 +21,7 @@
 			<br>
 		</th>
 		<th>
-			<p><code>Clouds</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Clouds.webp?raw=true" width="256" /></p>
+			<p><code>Clouds</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Clouds.webp?raw=true" width="256" /></p>
 		</th>
 		<th>
 			<br>
@@ -29,21 +29,21 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere Clouds</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_Clouds.webp?raw=true" width="256" /></p>
+			<p><code>sphere Clouds</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_Clouds.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere, Clouds</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-Clouds.webp?raw=true" width="256" /></p>
+			<p><code>sphere, Clouds</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-Clouds.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>Clouds sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Clouds_sphere.webp?raw=true" width="256" /></p>
+			<p><code>Clouds sphere</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Clouds_sphere.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere; Clouds</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-semicolon-Clouds.webp?raw=true" width="256" /></p>
+			<p><code>sphere; Clouds</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-semicolon-Clouds.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere:Clouds</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-Clouds.webp?raw=true" width="256" /></p>
+			<p><code>sphere:Clouds</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-Clouds.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<p><code>sphere::Clouds</code></p><p><img src="/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-Clouds.webp?raw=true" width="256" /></p>
@@ -51,24 +51,24 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere - Clouds</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_-_Clouds.webp?raw=true" width="256" /></p>
+			<p><code>sphere - Clouds</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_-_Clouds.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere(Clouds)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere(Clouds).webp?raw=true" width="256" /></p>
+			<p><code>sphere(Clouds)</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere(Clouds).webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere in the style of Clouds</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Clouds.webp?raw=true" width="256" /></p>
+			<p><code>sphere in the style of Clouds</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Clouds.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere made of Clouds</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_made_of_Clouds.webp?raw=true" width="256" /></p>
+			<p><code>sphere made of Clouds</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_made_of_Clouds.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<br>
 		</td>
 		<td>
-			<p><code>Clouds of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Clouds_of_a_sphere.webp?raw=true" width="256" /></p>
+			<p><code>Clouds of a sphere</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/Clouds_of_a_sphere.webp?raw=true" width="256" /></p>
 		</td>
 </table>
 

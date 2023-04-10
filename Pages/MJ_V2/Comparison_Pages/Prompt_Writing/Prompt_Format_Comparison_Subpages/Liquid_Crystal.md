@@ -21,7 +21,7 @@
 			<br>
 		</th>
 		<th>
-			<p><code>Liquid Crystal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/LiquidCrystal.webp?raw=true" width="256" /></p>
+			<p><code>Liquid Crystal</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/LiquidCrystal.webp?raw=true" width="256" /></p>
 		</th>
 		<th>
 			<br>
@@ -29,21 +29,21 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere Liquid Crystal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_LiquidCrystal.webp?raw=true" width="256" /></p>
+			<p><code>sphere Liquid Crystal</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_LiquidCrystal.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere, Liquid Crystal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-LiquidCrystal.webp?raw=true" width="256" /></p>
+			<p><code>sphere, Liquid Crystal</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-LiquidCrystal.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>Liquid Crystal sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/LiquidCrystal_sphere.webp?raw=true" width="256" /></p>
+			<p><code>Liquid Crystal sphere</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/LiquidCrystal_sphere.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere; Liquid Crystal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-semicolon-LiquidCrystal.webp?raw=true" width="256" /></p>
+			<p><code>sphere; Liquid Crystal</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-semicolon-LiquidCrystal.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere:Liquid Crystal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-LiquidCrystal.webp?raw=true" width="256" /></p>
+			<p><code>sphere:Liquid Crystal</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-LiquidCrystal.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<p><code>sphere::Liquid Crystal</code></p><p><img src="/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-LiquidCrystal.webp?raw=true" width="256" /></p>
@@ -51,24 +51,24 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere - Liquid Crystal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_-_LiquidCrystal.webp?raw=true" width="256" /></p>
+			<p><code>sphere - Liquid Crystal</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_-_LiquidCrystal.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere(Liquid Crystal)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere(LiquidCrystal).webp?raw=true" width="256" /></p>
+			<p><code>sphere(Liquid Crystal)</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere(LiquidCrystal).webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere in the style of Liquid Crystal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_in_the_style_of_LiquidCrystal.webp?raw=true" width="256" /></p>
+			<p><code>sphere in the style of Liquid Crystal</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_in_the_style_of_LiquidCrystal.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere made of Liquid Crystal</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_made_of_LiquidCrystal.webp?raw=true" width="256" /></p>
+			<p><code>sphere made of Liquid Crystal</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/sphere_made_of_LiquidCrystal.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<br>
 		</td>
 		<td>
-			<p><code>Liquid Crystal of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/LiquidCrystal_of_a_sphere.webp?raw=true" width="256" /></p>
+			<p><code>Liquid Crystal of a sphere</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V2/Comparison_Page_Images/Prompt_Format_Comparison/LiquidCrystal_of_a_sphere.webp?raw=true" width="256" /></p>
 		</td>
 </table>
 

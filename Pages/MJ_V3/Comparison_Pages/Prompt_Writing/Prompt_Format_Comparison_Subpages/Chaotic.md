@@ -21,7 +21,7 @@
 			<br>
 		</th>
 		<th>
-			<p><code>Chaotic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/Chaotic.webp?raw=true" width="256" /></p>
+			<p><code>Chaotic</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/Chaotic.webp?raw=true" width="256" /></p>
 		</th>
 		<th>
 			<br>
@@ -29,21 +29,21 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere Chaotic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere_Chaotic.webp?raw=true" width="256" /></p>
+			<p><code>sphere Chaotic</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere_Chaotic.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere, Chaotic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-Chaotic.webp?raw=true" width="256" /></p>
+			<p><code>sphere, Chaotic</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-Chaotic.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>Chaotic sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/Chaotic_sphere.webp?raw=true" width="256" /></p>
+			<p><code>Chaotic sphere</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/Chaotic_sphere.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere; Chaotic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-semicolon-Chaotic.webp?raw=true" width="256" /></p>
+			<p><code>sphere; Chaotic</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-semicolon-Chaotic.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere:Chaotic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-Chaotic.webp?raw=true" width="256" /></p>
+			<p><code>sphere:Chaotic</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-colon-Chaotic.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<p><code>sphere::Chaotic</code></p><p><img src="/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere-double_colon-Chaotic.webp?raw=true" width="256" /></p>
@@ -51,24 +51,24 @@
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere - Chaotic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere_-_Chaotic.webp?raw=true" width="256" /></p>
+			<p><code>sphere - Chaotic</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere_-_Chaotic.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere(Chaotic)</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere(Chaotic).webp?raw=true" width="256" /></p>
+			<p><code>sphere(Chaotic)</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere(Chaotic).webp?raw=true" width="256" /></p>
 		</td>
 		<td>
-			<p><code>sphere in the style of Chaotic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Chaotic.webp?raw=true" width="256" /></p>
+			<p><code>sphere in the style of Chaotic</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere_in_the_style_of_Chaotic.webp?raw=true" width="256" /></p>
 		</td>
 	</tr>
 	<tr align=center valign=middle>
 		<td>
-			<p><code>sphere made of Chaotic</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere_made_of_Chaotic.webp?raw=true" width="256" /></p>
+			<p><code>sphere made of Chaotic</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/sphere_made_of_Chaotic.webp?raw=true" width="256" /></p>
 		</td>
 		<td>
 			<br>
 		</td>
 		<td>
-			<p><code>Chaotic of a sphere</code></p><p><img src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/Chaotic_of_a_sphere.webp?raw=true" width="256" /></p>
+			<p><code>Chaotic of a sphere</code></p><p><img src="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/blob/main/Images/MJ_V3/Comparison_Page_Images/Prompt_Format_Comparison/Chaotic_of_a_sphere.webp?raw=true" width="256" /></p>
 		</td>
 </table>
 

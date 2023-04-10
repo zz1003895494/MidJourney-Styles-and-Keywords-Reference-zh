@@ -2,7 +2,7 @@
 
 <hr><!--------------->
 
-<h4><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%E2%9D%94-How-To-Guide#-how-to-upscale-an-image">❔ How To Upscale an Image</a></h4>
+<h4><a href="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/wiki/%E2%9D%94-How-To-Guide#-how-to-upscale-an-image">❔ How To Upscale an Image</a></h4>
 
 <hr><!--------------->
 
