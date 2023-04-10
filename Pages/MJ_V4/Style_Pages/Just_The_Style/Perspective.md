@@ -21,168 +21,167 @@
 
 - <details><summary>🛤️🔭 Views</summary><p><div align="center">
 
-	| Top-View | Side-View | Satellite-View |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Top-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Side-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Satellite-View.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Worms-Eye View | Aerial View | View From an Airplane |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Worms-Eye_View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aerial_View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/View_From_an_Airplane.webp?raw=true" width="256" /> |
+    | Top-View | Side-View | Satellite-View |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Top-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Side-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Satellite-View.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Worms-Eye View | Aerial View | View From an Airplane |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Worms-Eye_View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aerial_View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/View_From_an_Airplane.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Closeup | Closeup-View | Extreme Closeup |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Closeup.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Closeup-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Extreme_Closeup.webp?raw=true" width="256" /> |
+    | Closeup | Closeup-View | Extreme Closeup |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Closeup.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Closeup-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Extreme_Closeup.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Wide Shot | Epic Wide Shot |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wide_Shot.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Epic_Wide_Shot.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Wide Shot | Epic Wide Shot |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Wide_Shot.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Epic_Wide_Shot.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Centered-Shot | Selfie |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Selfie.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Centered-Shot.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Centered-Shot | Selfie |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Selfie.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Centered-Shot.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| First-Person | First-Person View | Field of View |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/First-Person.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/First-Person_View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Field_of_View.webp?raw=true" width="256" /> |
+    | First-Person | First-Person View | Field of View |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/First-Person.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/First-Person_View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Field_of_View.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Third-Person | Third-Person View | Product-View |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Third-Person.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Third-Person_View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Product-View.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Third-Person | Third-Person View | Product-View |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Third-Person.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Third-Person_View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Product-View.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🛤️📐 Angles</summary><p><div align="center">
 
-	| Low Angle | High Angle |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Low_Angle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/High_Angle.webp?raw=true" width="256" /> |
+    | Low Angle | High Angle |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Low_Angle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/High_Angle.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🛤️🛣️ Perspective and Projections</summary><p><div align="center">
 
-	| Perspective | Perspective Projection | Panini Projection |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Perspective_Projection.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Panini_Projection.webp?raw=true" width="256" /> | 
+    | Perspective | Perspective Projection | Panini Projection |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Perspective_Projection.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Panini_Projection.webp?raw=true" width="256" /> | 
 
-	<br>
-	
-	| Miniature Faking | Brenizer Method |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Miniature_Faking.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Brenizer_Method.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Miniature Faking | Brenizer Method |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Miniature_Faking.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Brenizer_Method.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Forced Perspective | Aerial Perspective |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Forced_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aerial_Perspective.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Forced Perspective | Aerial Perspective |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Forced_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Aerial_Perspective.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Isometric |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Isometric.webp?raw=true" width="256" /> |
+    | Isometric |
+    | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Isometric.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Orthographic | Multiview Projection |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Orthographic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Multiview_Projection.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Orthographic | Multiview Projection |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Orthographic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Multiview_Projection.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Axonometric | Axonometric Projection |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Axonometric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Axonometric_Projection.webp?raw=true" width="256" /> |
+    | Axonometric | Axonometric Projection |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Axonometric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Axonometric_Projection.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Dimetric Projection | Trimetric Projection |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dimetric_Projection.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Trimetric_Projection.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Parallel Projection | Oblique Projection |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Parallel_Projection.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Oblique_Projection.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Dimetric Projection | Trimetric Projection |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Dimetric_Projection.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Trimetric_Projection.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Parallel Projection | Oblique Projection |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Parallel_Projection.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Oblique_Projection.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Anamorphosis | Accelerated Perspective | Linear Perspective |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Anamorphosis.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Accelerated_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Linear_Perspective.webp?raw=true" width="256" /> |
+    | Anamorphosis | Accelerated Perspective | Linear Perspective |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Anamorphosis.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Accelerated_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Linear_Perspective.webp?raw=true" width="256" /> |
 
-		
-	<br>
-	
-	| One-Point Perspective | Two-Point Perspective | Three-Point Perspective |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/One-Point_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Two-Point_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Three-Point_Perspective.webp?raw=true" width="256" /> |
-	
-	<br>
+        
+    <br>
+    
+    | One-Point Perspective | Two-Point Perspective | Three-Point Perspective |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/One-Point_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Two-Point_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Three-Point_Perspective.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Curvilinear Perspective |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Curvilinear_Perspective.webp?raw=true" width="256" /> |
+    | Curvilinear Perspective |
+    | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Curvilinear_Perspective.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Cylindrical Perspective |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cylindrical_Perspective.webp?raw=true" width="256" /> |
+    | Cylindrical Perspective |
+    | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cylindrical_Perspective.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Reverse Perspective | Inverse Perspective | Inverted Perspective |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Reverse_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Inverse_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Inverted_Perspective.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Divergent Perspective |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Divergent_Perspective.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Reverse Perspective | Inverse Perspective | Inverted Perspective |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Reverse_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Inverse_Perspective.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Inverted_Perspective.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Divergent Perspective |
+    | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Divergent_Perspective.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🛤️✂️ Cutaway View and Cross-Sections</summary><p><div align="center">
 
-	| Cross-Section |
-	| :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cross-Section.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Cutaway | Cutaway-View | Cutaway Drawing |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cutaway.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cutaway-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cutaway_Drawing.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Exploded-View | Exploded-View Drawing |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Exploded-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Exploded-View_Drawing.webp?raw=true" width="256" /> |
+    | Cross-Section |
+    | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cross-Section.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Cutaway | Cutaway-View | Cutaway Drawing |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cutaway.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cutaway-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Cutaway_Drawing.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Exploded-View | Exploded-View Drawing |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Exploded-View.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Exploded-View_Drawing.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

@@ -18,50 +18,49 @@
 
 - <details><summary>➰😁 Emotions and Qualities</summary><p><div align="center">
 
-	| Happy |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Happy.webp?raw=true" width="256" /> |
+    | Happy |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Happy.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Love |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Love.webp?raw=true" width="256" /> |
+    | Love |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Love.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Sad |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Sad.webp?raw=true" width="256" /> |
+    | Sad |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Sad.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Whimsical |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Whimsical.webp?raw=true" width="256" /> |
+    | Whimsical |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Whimsical.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Angelic |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Angelic.webp?raw=true" width="256" /> |
+    | Angelic |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Angelic.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Corrupted |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Corrupted.webp?raw=true" width="256" /> |
+    | Corrupted |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Corrupted.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Cute |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Cute.webp?raw=true" width="256" /> |
+    | Cute |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Cute.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

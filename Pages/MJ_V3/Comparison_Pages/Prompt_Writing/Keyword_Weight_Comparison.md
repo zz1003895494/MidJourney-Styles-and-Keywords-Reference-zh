@@ -1,6 +1,6 @@
 <h2>⚖ Keyword Weight Comparison</h2>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 </table>
 
 <br><br>
-<hr><!--------------->
+<hr>
 <br>
 <h3>landscape::1 painting::# autumn::#</h3>
 <br>
@@ -106,7 +106,7 @@
 </table>
 
 <br><br>
-<hr><!--------------->
+<hr>
 
 <br>
 <h3>painting of a tree::1 Painted By Bob Ross::# Painted By Alex Gray::#</h3>
@@ -151,13 +151,9 @@
     </tr>
 </table>
 
-
-
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+	<h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

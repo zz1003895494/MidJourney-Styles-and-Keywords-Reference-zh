@@ -1,6 +1,6 @@
 <h2>🌱 Seed and Sameseed</h2>
 
-<hr><!--------------->
+<hr>
 
 <br>
 
@@ -112,10 +112,7 @@ Keep in mind that you can use any seed number that you'd like and it's not limit
 
 </div></p></details>
 
-
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

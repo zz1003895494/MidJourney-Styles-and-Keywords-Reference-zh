@@ -20,109 +20,106 @@
 <br>
 
 <table>
-	<tr align=center valign=middle>
-		<th width=200></th>
-		<th>Scan Lines</th>
-		<th>Deep Dream</th>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scanlines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deepdream.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62; &#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan--space--Lines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep--space--Dream.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;_&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan_Lines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep_Dream.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;-&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan-Lines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep-Dream.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;+&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan+Lines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep+Dream.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;&&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan&Lines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep&Dream.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;~&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan~Lines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep~Dream.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;.&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan.Lines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep.Dream.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;/&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan--slash--Lines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep--slash--Dream.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;\&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan--backslash--Lines.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep--backslash--Dream.webp?raw=true" width="256" />
-		</td>
-	</tr>
+    <tr align=center valign=middle>
+        <th width=200></th>
+        <th>Scan Lines</th>
+        <th>Deep Dream</th>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scanlines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deepdream.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62; &#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan--space--Lines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep--space--Dream.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;_&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan_Lines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep_Dream.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;-&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan-Lines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep-Dream.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;+&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan+Lines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep+Dream.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;&&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan&Lines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep&Dream.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;~&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan~Lines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep~Dream.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;.&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan.Lines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep.Dream.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;/&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan--slash--Lines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep--slash--Dream.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;\&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Scan_Lines/Scan--backslash--Lines.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.5/Comparison_Page_Images/Compound_Word_Comparison/Deep_Dream/Deep--backslash--Dream.webp?raw=true" width="256" />
+        </td>
+    </tr>
 </table>
 
 </div>
 
-<br>
-
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

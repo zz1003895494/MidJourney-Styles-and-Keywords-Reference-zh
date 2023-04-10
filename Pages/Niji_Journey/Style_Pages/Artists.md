@@ -19,68 +19,67 @@
 
 - <details><summary>📔❇ Surrealism</summary><p><div align="center">
 
-	| Painting By Salvador Dali |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Salvador_Dali.webp?raw=true" width="256" /> |
+    | Painting By Salvador Dali |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Salvador_Dali.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📔➿ Post-Impressionism</summary><p><div align="center">
 
-	| Painting By Van Gogh |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Van_Gogh.webp?raw=true" width="256" /> |
+    | Painting By Van Gogh |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Van_Gogh.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📔☯ Psychedelic</summary><p><div align="center">
 
-	| Painting By Alex Grey |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Alex_Grey.webp?raw=true" width="256" /> |
+    | Painting By Alex Grey |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Alex_Grey.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📔🈯 Manga</summary><p><div align="center">
 
-	| Painting By Junji Ito |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Junji_Ito.webp?raw=true" width="256" /> |
+    | Painting By Junji Ito |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Junji_Ito.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Painted By Akihiko Yoshida | Painted By Anton Pieck |
-	| :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Akihiko_Yoshida.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Anton_Pieck.webp?raw=true" width="256" /> |
+    | Painted By Akihiko Yoshida | Painted By Anton Pieck |
+    | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Akihiko_Yoshida.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Anton_Pieck.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Painted By Angus McKie | Painted By Akari Toriyama | Painted By Al Williamson |
-	| :-: | :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Angus_McKie.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Akari_Toriyama.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Al_Williamson.webp?raw=true" width="256" /> |
+    | Painted By Angus McKie | Painted By Akari Toriyama | Painted By Al Williamson |
+    | :-: | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Angus_McKie.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Akari_Toriyama.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Painted_By_Al_Williamson.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Art by Ilya Kuvshinov |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Art_by_Ilya_Kuvshinov.webp?raw=true" width="256" /> |
+    | Art by Ilya Kuvshinov |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Art_by_Ilya_Kuvshinov.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📔 Other Artists</summary><p><div align="center">
 
-	| Painting By Bob Ross | Art By M.C. Escher |
-	| :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Bob_Ross.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Art_By_M.C._Escher.webp?raw=true" width="256" /> |
+    | Painting By Bob Ross | Art By M.C. Escher |
+    | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Painting_By_Bob_Ross.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Art_By_M.C._Escher.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

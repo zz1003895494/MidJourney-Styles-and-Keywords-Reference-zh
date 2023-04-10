@@ -18,9 +18,9 @@
 
 - <details><summary>☄🌌 Galaxies, Nebulae, and Other Cosmic Structures</summary><p><div align="center">
 
-	| Galaxy |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Galaxy.webp?raw=true" width="256" /> |
+    | Galaxy |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Galaxy.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -28,19 +28,18 @@
 - <details><summary>☄ Other</summary><p><div align="center">
 
     | Cosmic |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cosmic.webp?raw=true" width="256" /> |
-	
-	<br>
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cosmic.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Outer Space | Universe |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Outer_Space.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Universe.webp?raw=true" width="256" /> |
+    | Outer Space | Universe |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Outer_Space.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Universe.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

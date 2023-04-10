@@ -19,14 +19,13 @@
 
 - <details><summary>🎷🚽 Other Objects</summary><p><div align="center">
 
-	| <br>Teapot<p><div align="center"><i><h6><a href="https://rexwang8.github.io/resource/ai/teapot">@bob</a></h6></i></p> |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Teapot.webp?raw=true" width="256" /> |
+    | <br>Teapot<p><div align="center"><i><h6><a href="https://rexwang8.github.io/resource/ai/teapot">@bob</a></h6></i></p> |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Teapot.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

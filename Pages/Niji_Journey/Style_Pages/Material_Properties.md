@@ -19,32 +19,31 @@
 
 - <details><summary>📦🏮 Optics and Light Manipulation</summary><p><div align="center">
 
-	| Glitter |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Glitter.webp?raw=true" width="256" /> |
+    | Glitter |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Glitter.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📦💡 Luminescence</summary><p><div align="center">
 
-	| Glow-In-The-Dark |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Glow-In-The-Dark.webp?raw=true" width="256" /> |
+    | Glow-In-The-Dark |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Glow-In-The-Dark.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📦🧽 Physical Properties</summary><p><div align="center">
 
-	| Cracked |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Cracked.webp?raw=true" width="256" /> |
+    | Cracked |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Cracked.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

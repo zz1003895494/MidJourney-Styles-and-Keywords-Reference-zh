@@ -18,82 +18,82 @@
 
 - <details><summary>📷🌇 Camera and Scenes</summary><p><div align="center">
 
-	| Photography | Filmic | Cinematic |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Photography.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Filmic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cinematic.webp?raw=true" width="256" /> | 
-	
-	<br>
+    | Photography | Filmic | Cinematic |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Photography.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Filmic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cinematic.webp?raw=true" width="256" /> | 
+    
+    <br>
 
-	| Color Grading | Bokeh |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Color_Grading.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bokeh.webp?raw=true" width="256" /> |
+    | Color Grading | Bokeh |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Color_Grading.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bokeh.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📷🌇 Camera and Film Types</summary><p><div align="center">
 
-	| Night Vision |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Night_Vision.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Hyperspectral Imaging | Multispectral Imaging |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hyperspectral_Imaging.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Multispectral_Imaging.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Polaroid |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Polaroid.webp?raw=true" width="256" /> |
+    | Night Vision |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Night_Vision.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Hyperspectral Imaging | Multispectral Imaging |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hyperspectral_Imaging.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Multispectral_Imaging.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Polaroid |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Polaroid.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📷🔭 Lenses</summary><p><div align="center">
 
-	| Macro |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Macro.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Microscopic | Super-Resolution Microscopy |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Microscopic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Super-Resolution_Microscopy.webp?raw=true" width="256" /> |
-	
+    | Macro |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Macro.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Microscopic | Super-Resolution Microscopy |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Microscopic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Super-Resolution_Microscopy.webp?raw=true" width="256" /> |
+    
 
-	</div></p></details>
+    </div></p></details>
 
 - <details><summary>📷👁 Focus and Depth of Field</summary><p><div align="center">
-	
-	| Depth of Field | DOF |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Depth_of_Field.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_DOF.webp?raw=true" width="256" /> |
+    
+    | Depth of Field | DOF |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Depth_of_Field.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_DOF.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📷🔎 Zoom, Pan, and Tilt</summary><p><div align="center">
-	
-	| Dolly Zoom |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dolly_Zoom.webp?raw=true" width="256" /> |
+    
+    | Dolly Zoom |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dolly_Zoom.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📷 Other</summary><p><div align="center">
 
-	| Lens Flare | Vignette |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lens_Flare.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Vignette.webp?raw=true" width="256" /> |
+    | Lens Flare | Vignette |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lens_Flare.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Vignette.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

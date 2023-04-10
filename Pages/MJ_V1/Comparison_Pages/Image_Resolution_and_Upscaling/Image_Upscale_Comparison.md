@@ -1,10 +1,10 @@
 <h2>🚀 Image Upscale Comparison</h2>
 
-<hr><!--------------->
+<hr>
 
 <h4><a href="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/wiki/%E2%9D%94-How-To-Guide#-how-to-upscale-an-image">❔ How To Upscale an Image</a></h4>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -146,9 +146,7 @@
 
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

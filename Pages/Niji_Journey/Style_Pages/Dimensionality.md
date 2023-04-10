@@ -19,13 +19,13 @@
 
 - <details><summary>🌌 0D-5D</summary><p><div align="center">
 
-	| 2-Dimensional |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/2-Dimensional.webp?raw=true" width="256" /> |
+    | 2-Dimensional |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/2-Dimensional.webp?raw=true" width="256" /> |
 
-	</div></p></details>
-	    
-<hr><!--------------->
+    </div></p></details>
+        
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

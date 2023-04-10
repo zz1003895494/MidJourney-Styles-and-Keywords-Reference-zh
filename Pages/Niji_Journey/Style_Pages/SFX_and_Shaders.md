@@ -19,47 +19,46 @@
 
 - <details><summary>🌈🔍 Reflections</summary><p><div align="center">
 
-	| Ray Tracing Reflections |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /> |
+    | Ray Tracing Reflections |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🌈🎨 Chromatic SFX</summary><p><div align="center">
 
-	| Chromatic Aberration |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /> |
+    | Chromatic Aberration |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🌈💫 Stylized</summary><p><div align="center">
 
-	| Scan Lines |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Scan_Lines.webp?raw=true" width="256" /> |
+    | Scan Lines |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Scan_Lines.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Tessellated |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Tessellated.webp?raw=true" width="256" /> |
+    | Tessellated |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Tessellated.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🌈🕶 Shaders and Post Processing</summary><p><div align="center">
 
-	| Ray Traced |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Ray_Traced.webp?raw=true" width="256" /> |
+    | Ray Traced |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Ray_Traced.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

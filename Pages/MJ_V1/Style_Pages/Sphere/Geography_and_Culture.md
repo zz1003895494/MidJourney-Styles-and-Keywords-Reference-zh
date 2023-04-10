@@ -19,14 +19,13 @@
 
 - <details><summary>🗺🎄 Holidays</summary><p><div align="center">
 
-	| Christmas | Halloween |
-	| :-: |	:-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Christmas.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Halloween.webp?raw=true" width="256" /> |
+    | Christmas | Halloween |
+    | :-: |	:-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Christmas.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Halloween.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

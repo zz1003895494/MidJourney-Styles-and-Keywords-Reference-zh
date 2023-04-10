@@ -18,14 +18,13 @@
 
 - <details><summary>♻🕸 Knots</summary><p><div align="center">
 
-	| Celtic Knot |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Celtic_Knot.webp?raw=true" width="256" /> |
+    | Celtic Knot |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Celtic_Knot.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

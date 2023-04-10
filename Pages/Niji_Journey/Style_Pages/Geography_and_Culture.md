@@ -19,44 +19,43 @@
 
 - <details><summary>🗺🎌 Countries and Nations</summary><p><div align="center">
 
-	| Chinese-Style |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Chinese-Style.webp?raw=true" width="256" /> |
+    | Chinese-Style |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Chinese-Style.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Japanese |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Japanese.webp?raw=true" width="256" /> |
+    | Japanese |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Japanese.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Japanese-Style |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Japanese-Style.webp?raw=true" width="256" /> |
+    | Japanese-Style |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Japanese-Style.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🗺🎄 Holidays</summary><p><div align="center">
 
-	| Halloween |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Halloween.webp?raw=true" width="256" /> |
+    | Halloween |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Halloween.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🗺🐱‍👤 Professions and Types of People</summary><p><div align="center">
-	
-	| Samurai | Samurai Warrior |
+    
+    | Samurai | Samurai Warrior |
     | :-: | :-: |
     | <img src="/Images/Niji_Journey/MidJourney_Styles/Samurai.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Samurai_Warrior.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

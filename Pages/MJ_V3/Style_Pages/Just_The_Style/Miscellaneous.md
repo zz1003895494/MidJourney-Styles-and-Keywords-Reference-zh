@@ -78,7 +78,7 @@
 | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Flux.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Fluxus.webp?raw=true" width="256" /> |
 
 <br>
-	
+    
 | Bare |
 | :-: |
 | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Bare.webp?raw=true" width="256" /> |
@@ -91,7 +91,7 @@
 
 </div></p>
 
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

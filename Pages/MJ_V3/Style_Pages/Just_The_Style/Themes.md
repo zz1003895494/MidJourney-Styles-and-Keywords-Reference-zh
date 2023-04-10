@@ -21,129 +21,129 @@
 
 - <details><summary>🎭⛱ Realism/Abstraction</summary><p><div align="center">
 
-	| Realistic | Hyperrealistic | Hyper Real |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Realistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Hyperrealistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Hyper_Real.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Realistic | Hyperrealistic | Hyper Real |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Realistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Hyperrealistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Hyper_Real.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Photorealistic | Photorealism |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Photorealistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Photorealism.webp?raw=true" width="256" /> |
+    | Photorealistic | Photorealism |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Photorealistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Photorealism.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Realism | Magic Realism | Fantastic Realism |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Magic_Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Fantastic_Realism.webp?raw=true" width="256" />  |
+    <br>
+    
+    | Realism | Magic Realism | Fantastic Realism |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Magic_Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Fantastic_Realism.webp?raw=true" width="256" />  |
 
-	<br>
+    <br>
 
-	| Classical Realism | New Realism | Contemporary Realism |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Classical_Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/New_Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Contemporary_Realism.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Classical Realism | New Realism | Contemporary Realism |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Classical_Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/New_Realism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Contemporary_Realism.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Surreal | Surrealism | Unrealistic |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Surreal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Surrealism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Unrealistic.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Surreal | Surrealism | Unrealistic |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Surreal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Surrealism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Unrealistic.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Non-Fiction | Fiction | Science Fiction |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Non-Fiction.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Fiction.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Science_Fiction.webp?raw=true" width="256" /> |
+    | Non-Fiction | Fiction | Science Fiction |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Non-Fiction.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Fiction.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Science_Fiction.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Imagined | Imaginative | Imagination |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Imagined.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Imaginative.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Imagination.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Imagined | Imaginative | Imagination |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Imagined.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Imaginative.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Imagination.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Dreamlike | Dreamy | Fever-Dream |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Dreamlike.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Dreamy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Fever-Dream.webp?raw=true" width="256" /> |
+    | Dreamlike | Dreamy | Fever-Dream |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Dreamlike.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Dreamy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Fever-Dream.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Dreampunk | Daydreampunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Dreampunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Daydreampunk.webp?raw=true" width="256" /> |
+    | Dreampunk | Daydreampunk |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Dreampunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Daydreampunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Dreamcore | Weirdcore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Dreamcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Weirdcore.webp?raw=true" width="256" /> |
+    | Dreamcore | Weirdcore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Dreamcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Weirdcore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Worldly | Otherworldly | Unworldly |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Worldly.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Otherworldly.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Unworldly.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Worldly | Otherworldly | Unworldly |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Worldly.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Otherworldly.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Unworldly.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| From Another Realm | Wonderland |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/From_Another_Realm.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Wonderland.webp?raw=true" width="256" /> |
-	
-	<br>
+    | From Another Realm | Wonderland |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/From_Another_Realm.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Wonderland.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Lucid | Ethereal | Ethereality |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Lucid.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Ethereal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Ethereality.webp?raw=true" width="256" /> |
+    | Lucid | Ethereal | Ethereality |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Lucid.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Ethereal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Ethereality.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Anemoiacore | Déjà vu |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Anemoiacore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Deja_vu.webp?raw=true" width="256" /> |
+    | Anemoiacore | Déjà vu |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Anemoiacore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Deja_vu.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Abstract | Abstraction | Lyrical Abstraction |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Abstract.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Abstraction.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Lyrical_Abstraction.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Fantasy | Ethereal Fantasy | Dark Fantasy |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Fantasy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Ethereal_Fantasy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Dark_Fantasy.webp?raw=true" width="256" /> |
-	
-	<br>
+    <br>
+    
+    | Abstract | Abstraction | Lyrical Abstraction |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Abstract.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Abstraction.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Lyrical_Abstraction.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Fantasy | Ethereal Fantasy | Dark Fantasy |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Fantasy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Ethereal_Fantasy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Dark_Fantasy.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Fantasy Map |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Fantasy_Map.webp?raw=true" width="256" /> |
+    | Fantasy Map |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Fantasy_Map.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Illusion | Impossible | Nonsense |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Illusion.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Impossible.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Nonsense.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Illusion | Impossible | Nonsense |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Illusion.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Impossible.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Nonsense.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Immaterial | Intangible |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Immaterial.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Intangible.webp?raw=true" width="256" /> |
+    | Immaterial | Intangible |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Immaterial.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Intangible.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Visual Rhetoric | Visual Exaggeration |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Visual_Rhetoric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Visual_Exaggeration.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Visual Rhetoric | Visual Exaggeration |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Visual_Rhetoric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Visual_Exaggeration.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Exaggerated | Exaggeration |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Exaggerated.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Exaggeration.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Exaggerated | Exaggeration |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Exaggerated.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Exaggeration.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -151,75 +151,75 @@
 
 - <details><summary>🎭💾 Retro/Modern</summary><p><div align="center">
 
-	| Retro | Retrowave |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Retro.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Retrowave.webp?raw=true" width="256" /> |
-	
-	<br>
-		
-	| Nostalgiacore | Nostalgia |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Nostalgiacore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Nostalgia.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Retro | Retrowave |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Retro.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Retrowave.webp?raw=true" width="256" /> |
+    
+    <br>
+        
+    | Nostalgiacore | Nostalgia |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Nostalgiacore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Nostalgia.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Vintage | Antique |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Vintage.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Antique.webp?raw=true" width="256" /> |
+    | Vintage | Antique |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Vintage.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Antique.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Cyberpunk | Postcyberpunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Cyberpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Postcyberpunk.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Cyberpunk | Postcyberpunk |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Cyberpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Postcyberpunk.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Atompunk | Nanopunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Atompunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Nanopunk.webp?raw=true" width="256" /> |
+    | Atompunk | Nanopunk |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Atompunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Nanopunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Raypunk | Rollerwave |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Raypunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Rollerwave.webp?raw=true" width="256" /> |
+    | Raypunk | Rollerwave |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Raypunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Rollerwave.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Rustic | Rusticcore | Rococopunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Rustic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Rusticcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Rococopunk.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Rustic | Rusticcore | Rococopunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Rustic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Rusticcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Rococopunk.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Pre-Historic | Historic | Prehistoricore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Pre-Historic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Historic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Prehistoricore.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Pre-Historic | Historic | Prehistoricore |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Pre-Historic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Historic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Prehistoricore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Jurassic | Ice Age | Wild West |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Jurassic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Ice_Age.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Wild_West.webp?raw=true" width="256" /> |
+    | Jurassic | Ice Age | Wild West |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Jurassic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Ice_Age.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Wild_West.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Modern | Modernismo |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Modern.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Modernismo.webp?raw=true" width="256" /> |
+    | Modern | Modernismo |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Modern.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Modernismo.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Futuristic | Futurism | Future Funk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Futuristic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Futurism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Future_Funk.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Retro-Futurism | Cassette Futurism | Afrofuturist |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Retro-Futurism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Cassette_Futurism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Afrofuturist.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Futuristic | Futurism | Future Funk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Futuristic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Futurism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Future_Funk.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Retro-Futurism | Cassette Futurism | Afrofuturist |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Retro-Futurism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Cassette_Futurism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Afrofuturist.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -227,264 +227,264 @@
 
 - <details><summary>🎭🪐 Sci-fi</summary><p><div align="center">
 
-	| Sci-fi | Alchemy |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Sci-fi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Alchemy.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Sci-fi | Alchemy |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Sci-fi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Alchemy.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Terrestrial | Extraterrestrial | Alien |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Terrestrial.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Extraterrestrial.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Alien.webp?raw=true" width="256" /> |
+    | Terrestrial | Extraterrestrial | Alien |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Terrestrial.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Extraterrestrial.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Alien.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Invaded | Invasion |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Invaded.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Invasion.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Invaded | Invasion |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Invaded.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Invasion.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Aurora | Aurorae | Auroracore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Aurora.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Aurorae.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Auroracore.webp?raw=true" width="256" /> |
+    | Aurora | Aurorae | Auroracore |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Aurora.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Aurorae.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Auroracore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Weirdcore_Aurora.webp?raw=true" width="256" /> |
+    | <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Weirdcore_Aurora.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Magic | Magical | Magicpunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Magic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Magical.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Magicpunk.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Spell |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Spell.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Magic | Magical | Magicpunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Magic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Magical.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Magicpunk.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Spell |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Spell.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Mystic | Mystical |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Mystic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Mystical.webp?raw=true" width="256" /> |
+    | Mystic | Mystical |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Mystic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Mystical.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Psychic | Metaphysical |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Psychic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Metaphysical.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Metaphysical.webp?raw=true" width="256" /> |
+    | Psychic | Metaphysical |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Psychic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Metaphysical.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Metaphysical.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| UFO | Lightsaber |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/UFO.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Lightsaber.webp?raw=true" width="256" /> |
+    | UFO | Lightsaber |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/UFO.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Lightsaber.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Aetherpunk | Decopunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Aetherpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Decopunk.webp?raw=true" width="256" /> |
+    | Aetherpunk | Decopunk |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Aetherpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Decopunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Dracopunk | Dragoncore | Unicorncore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Dracopunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Dragoncore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Unicorncore.webp?raw=true" width="256" /> |
+    | Dracopunk | Dragoncore | Unicorncore |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Dracopunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Dragoncore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Unicorncore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Fairycore | Fairy Folk | Spriggancore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Fairycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Fairy_Folk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Spriggancore.webp?raw=true" width="256" /> |
+    | Fairycore | Fairy Folk | Spriggancore |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Fairycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Fairy_Folk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Spriggancore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Angelcore | Supernatural |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Angelcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Supernatural.webp?raw=true" width="256" /> |
+    | Angelcore | Supernatural |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Angelcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Supernatural.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Cryptidcore | Ghostcore | Spiritcore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Cryptidcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Ghostcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Spiritcore.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Cypernoir | Goblincore | Rangercore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Cypernoir.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Goblincore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Rangercore.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Cryptidcore | Ghostcore | Spiritcore |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Cryptidcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Ghostcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Spiritcore.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Cypernoir | Goblincore | Rangercore |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Cypernoir.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Goblincore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Rangercore.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Witchcore | Wizardcore | Magewave |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Witchcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wizardcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Magewave.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Witchcore | Wizardcore | Magewave |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Witchcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wizardcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Magewave.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Mythpunk |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Mythpunk.webp?raw=true" width="256" /> |
+    | Mythpunk |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Mythpunk.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Eye of Providence |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Eye_of_Providence.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Eye of Providence |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Eye_of_Providence.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Illuminati |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Illuminati.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Illuminati |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Illuminati.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭🛋 Rooms</summary><p><div align="center">
 
-	| Room |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Room.webp?raw=true" width="256" /> |
+    | Room |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Room.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Inside | Internal |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Inside.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Internal.webp?raw=true" width="256" /> |
+    | Inside | Internal |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Inside.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Internal.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Outside | External |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Outside.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/External.webp?raw=true" width="256" /> |
+    | Outside | External |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Outside.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/External.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Hotel Room | Apartment |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Hotel_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Apartment.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Hotel Room | Apartment |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Hotel_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Apartment.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Labyrinth |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Labyrinth.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Labyrinth |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Labyrinth.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Living Room | Lounge |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Living_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Lounge.webp?raw=true" width="256" /> |
+    | Living Room | Lounge |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Living_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Lounge.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Den | Front Room |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Den.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Front_Room.webp?raw=true" width="256" /> |
+    | Den | Front Room |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Den.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Front_Room.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Dining Room | Kitchen |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Dining_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Kitchen.webp?raw=true" width="256" /> |
+    | Dining Room | Kitchen |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Dining_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Kitchen.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Bedroom | Guest Room | Bathroom |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Bedroom.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Guest_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Bathroom.webp?raw=true" width="256" /> |
+    | Bedroom | Guest Room | Bathroom |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Bedroom.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Guest_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Bathroom.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Hallway | Passageway |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Hallway.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Passageway.webp?raw=true" width="256" /> |
+    | Hallway | Passageway |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Hallway.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Passageway.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Greenhouse | Atrium |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Greenhouse.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Atrium.webp?raw=true" width="256" /> |
+    | Greenhouse | Atrium |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Greenhouse.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Atrium.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Conservatory | Sun-Room |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Conservatory.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Sun-Room.webp?raw=true" width="256" /> |
+    | Conservatory | Sun-Room |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Conservatory.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Sun-Room.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Study | Library |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Study.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Library.webp?raw=true" width="256" /> |
+    | Study | Library |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Study.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Library.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Office | Home-Office |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Office.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Home-Office.webp?raw=true" width="256" /> |
+    | Office | Home-Office |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Office.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Home-Office.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Attic | Crawlspace |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Attic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Crawlspace.webp?raw=true" width="256" /> |
+    | Attic | Crawlspace |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Attic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Crawlspace.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Basement | Cellar | Wine-Cellar |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Basement.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Cellar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Wine-Cellar.webp?raw=true" width="256" /> |
+    | Basement | Cellar | Wine-Cellar |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Basement.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Cellar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Wine-Cellar.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Rooftop | Underground |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Rooftop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Underground.webp?raw=true" width="256" /> |
+    | Rooftop | Underground |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Rooftop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Underground.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Storage Room | Closet |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Storage_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Closet.webp?raw=true" width="256" /> |
+    | Storage Room | Closet |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Storage_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Closet.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Laundry Room | Utility Room | Mud-Room |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Laundry_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Utility_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Mud-Room.webp?raw=true" width="256" /> |
+    | Laundry Room | Utility Room | Mud-Room |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Laundry_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Utility_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Mud-Room.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Garage | Shed |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Garage.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Shed.webp?raw=true" width="256" /> |
+    | Garage | Shed |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Garage.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Shed.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Porch | Balcony |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Porch.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Balcony.webp?raw=true" width="256" /> |
+    | Porch | Balcony |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Porch.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Balcony.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Game Room | Home Theater | Gym Room |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Game_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Home_Theater.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Gym_Room.webp?raw=true" width="256" /> |
+    | Game Room | Home Theater | Gym Room |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Game_Room.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Home_Theater.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Gym_Room.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Nursery | Prayer Room |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Nursery.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Prayer_Room.webp?raw=true" width="256" /> |
+    | Nursery | Prayer Room |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Nursery.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Prayer_Room.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -492,88 +492,88 @@
 - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
 
     | Cityscape | Architecture | Balinese Architecture |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Cityscape.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Architecture.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Balinese_Architecture.webp?raw=true" width="256" /> |
-		
-	<br>
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Cityscape.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Architecture.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Balinese_Architecture.webp?raw=true" width="256" /> |
+        
+    <br>
 
-	| Structure | Structural | Scaffolding |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Structure.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Structural.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Scaffolding.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Structure | Structural | Scaffolding |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Structure.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Structural.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Scaffolding.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Manufactured | Makeshift |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Manufactured.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Makeshift.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Bronzepunk | Steelpunk | Clockpunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Bronzepunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Steelpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Clockpunk.webp?raw=true" width="256" /> 
-	
-	<br>
-	
-	| Steampunk | Dieselpunk | Gadgetpunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Steampunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Dieselpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Gadgetpunk.webp?raw=true" width="256" /> |
+    | Manufactured | Makeshift |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Manufactured.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Makeshift.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Bronzepunk | Steelpunk | Clockpunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Bronzepunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Steelpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Clockpunk.webp?raw=true" width="256" /> 
+    
+    <br>
+    
+    | Steampunk | Dieselpunk | Gadgetpunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Steampunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Dieselpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Gadgetpunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Funhouse | Toyland | Carnival |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Funhouse.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Toyland.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Carnival.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Funhouse | Toyland | Carnival |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Funhouse.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Toyland.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Carnival.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Salvagepunk | Silkpunk | Sandalpunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Salvagepunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Silkpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Sandalpunk.webp?raw=true" width="256" /> |
+    | Salvagepunk | Silkpunk | Sandalpunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Salvagepunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Silkpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Sandalpunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Swordpunk | Cassettepunk | Formicapunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Swordpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Cassettepunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Formicapunk.webp?raw=true" width="256" /> |
+    | Swordpunk | Cassettepunk | Formicapunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Swordpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Cassettepunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Formicapunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Brutalism | Sphinx | Ziggurat |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Brutalism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Sphinx.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Ziggurat.webp?raw=true" width="256" /> |
+    | Brutalism | Sphinx | Ziggurat |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Brutalism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Sphinx.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Ziggurat.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Industrial Design | Googie |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Industrial_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Googie.webp?raw=true" width="256" /> |
+    | Industrial Design | Googie |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Industrial_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Googie.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Pillar |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Pillar.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Pillar |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Pillar.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Shack | Property | Company |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Shack.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Property.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Company.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| House | Multiplex |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/House.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Multiplex.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Castle | Mansion | Kingdom |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Castle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Mansion.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Kingdom.webp?raw=true" width="256" /> |
+    | Shack | Property | Company |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_14/Shack.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Property.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Company.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | House | Multiplex |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/House.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Multiplex.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Castle | Mansion | Kingdom |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Castle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Mansion.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Kingdom.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
     | Playground | Poolcore |
     | :-: | :-: |
@@ -587,296 +587,292 @@
 
     <br>
 
-	| Machine | Submachine | Machinescape |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Machine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Submachine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Machinescape.webp?raw=true" width="256" /> |
+    | Machine | Submachine | Machinescape |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Machine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Submachine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Machinescape.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Robotic | Cyborgism | Autonomous |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Robotic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Cyborgism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Autonomous.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Robotic | Cyborgism | Autonomous |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Robotic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Cyborgism.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Autonomous.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Legopunk | Legogearpunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Legopunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Legogearpunk.webp?raw=true" width="256" /> |
+    | Legopunk | Legogearpunk |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Legopunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Legogearpunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
     | Tinkercore | Craftcore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Tinkercore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Craftcore.webp?raw=true" width="256" /> |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Tinkercore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Craftcore.webp?raw=true" width="256" /> |
 
-	<br>
-    	
-	| Stimwave | Wormcore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Stimwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Wormcore.webp?raw=true" width="256" /> |
+    <br>
+        
+    | Stimwave | Wormcore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Stimwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Wormcore.webp?raw=true" width="256" /> |
 
-	<br>
-    	
-	| Barbiecore | Dollcore | Sanriocore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Barbiecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Dollcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Sanriocore.webp?raw=true" width="256" /> |
+    <br>
+        
+    | Barbiecore | Dollcore | Sanriocore |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Barbiecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Dollcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Sanriocore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
     | Palewave | Normcore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Palewave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Normcore.webp?raw=true" width="256" /> |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Palewave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Normcore.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Bombacore | Thriftcore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Bombacore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Thriftcore.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Bombacore | Thriftcore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Bombacore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Thriftcore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Dollpunk |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Dollpunk.webp?raw=true" width="256" /> |
+    | Dollpunk |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Dollpunk.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭🎵 Music Styles</summary><p><div align="center">
 
-	| Music | Musical | Musical Notation |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Music.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Musical.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Musical_Notation.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Musica |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Musica.webp?raw=true" width="256" /> |
+    | Music | Musical | Musical Notation |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Music.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Musical.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Musical_Notation.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Musica |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Musica.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Funky | Groovy | Disco |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Funky.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Groovy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Disco.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Funky | Groovy | Disco |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Funky.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Groovy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Disco.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Punk | Post-Punk | Folk Punk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Punk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Post-Punk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Folk_Punk.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Punk | Post-Punk | Folk Punk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Punk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Post-Punk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Folk_Punk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Hip-Hop | Rave |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Hip-Hop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Rave.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Hip-Hop | Rave |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Hip-Hop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_12/Rave.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Vaporwave | Synthwave | Chillwave |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Vaporwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Synthwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Chillwave.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Vaporwave | Synthwave | Chillwave |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Vaporwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Synthwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Chillwave.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Hypnagogic Pop | Hyperpop | K-Pop |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Hypnagogic_Pop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Hyperpop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/K-Pop.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Hypnagogic Pop | Hyperpop | K-Pop |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Hypnagogic_Pop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Hyperpop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/K-Pop.webp?raw=true" width="256" /> |
+    
+    <br>
 
     | Tenwave | Bardcore | Breakcore |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Tenwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Bardcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Breakcore.webp?raw=true" width="256" /> |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Tenwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Bardcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Breakcore.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Cargopunk |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Cargopunk.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Cargopunk |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Cargopunk.webp?raw=true" width="256" /> |
 
-	<br>
-    	
-	| Shpongle | In The Style of Shpongle |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Shpongle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/In_The_Style_of_Shpongle.webp?raw=true" width="256" /> |
+    <br>
+        
+    | Shpongle | In The Style of Shpongle |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Shpongle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/In_The_Style_of_Shpongle.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭📺 Cartoons, Anime, and Comics</summary><p><div align="center">
 
-	| Cartoon | Marvel Comics |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Cartoon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Marvel_Comics.webp?raw=true" width="256" /> |
+    | Cartoon | Marvel Comics |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Cartoon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Marvel_Comics.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Anime | Animecore | Manga |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Anime.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Animecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Manga.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Anime | Animecore | Manga |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Anime.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Animecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_13/Manga.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Kawaii | UwU |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Kawaii.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/UwU.webp?raw=true" width="256" /> |
+    | Kawaii | UwU |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Kawaii.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/UwU.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭🎆 Colors, Crystals, Sparkles, and Light</summary><p><div align="center">
 
-	| Crystalcore | Sparklecore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Crystalcore.webp" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Sparklecore.webp?raw=true" width="256" /> |
+    | Crystalcore | Sparklecore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Crystalcore.webp" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Sparklecore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Rainbowcore | Pastelwave | Pastelpunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Rainbowcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Pastelwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Pastelpunk.webp?raw=true" width="256" /> |
+    | Rainbowcore | Pastelwave | Pastelpunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Rainbowcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Pastelwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Pastelpunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Glowwave | Glo-Fi | Neonpunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Glowwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Glo-Fi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Neonpunk.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Glowwave | Glo-Fi | Neonpunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Glowwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Glo-Fi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Neonpunk.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Lightcore |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Lightcore.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Fractalpunk |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Fractalpunk.webp?raw=true" width="256" /> |
+    | Lightcore |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Lightcore.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Fractalpunk |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Fractalpunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| <br>Chromiesthesia<p><div align="center"><i><h6>@Chromie</h6></i></p> |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Chromiesthesia.webp?raw=true" width="256" /> |
+    | <br>Chromiesthesia<p><div align="center"><i><h6>@Chromie</h6></i></p> |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Chromiesthesia.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭😁 Mood Based Themes</summary><p><div align="center">
 
-	| Warmcore | Lovecore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Warmcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Lovecore.webp?raw=true" width="256" /> |
+    | Warmcore | Lovecore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Warmcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Lovecore.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Happycore | Smilecore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Happycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Smilecore.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Happycore | Smilecore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Happycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Smilecore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Gloomcore | Dullcore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Gloomcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Dullcore.webp?raw=true" width="256" /> |
+    | Gloomcore | Dullcore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Gloomcore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Dullcore.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Dazecore | Sleepycore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Dazecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Sleepycore.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Dazecore | Sleepycore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Dazecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Sleepycore.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭⛩ Other Themes</summary><p><div align="center">
 
-	| Dark Aesthetic |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Dark_Aesthetic.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Dark Aesthetic |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Dark_Aesthetic.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Gourmet |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Gourmet.webp?raw=true" width="256" /> |
+    | Gourmet |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_11/Gourmet.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Archetype |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Archetype.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Archetype |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Archetype.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Airborne |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Airborne.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Airborne |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Airborne.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Microcosm | Macrocosm |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Microcosm.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Macrocosm.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Microcosm | Macrocosm |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Microcosm.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Macrocosm.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Cleancore | Safetycore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Cleancore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Safetycore.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Cleancore | Safetycore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Cleancore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Safetycore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Academia |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Academia.webp?raw=true" width="256" /> |
+    | Academia |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Academia.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Tinycore | Miniaturecore | Miniature World |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Tinycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Miniaturecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Miniature_World.webp?raw=true" width="256" /> |
+    | Tinycore | Miniaturecore | Miniature World |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Tinycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Miniaturecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Miniature_World.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Honeycore | Jamcore |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Honeycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Jamcore.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Honeycore | Jamcore |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Honeycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Jamcore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Infinitywave | Infinitycore | Infinitypunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Infinitywave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Infinitycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Infinitypunk.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| MLG | Materialisimo | Slimepunk |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/MLG.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Materialisimo.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Slimepunk.webp?raw=true" width="256" /> |
+    | Infinitywave | Infinitycore | Infinitypunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Infinitywave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Infinitycore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Infinitypunk.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | MLG | Materialisimo | Slimepunk |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/MLG.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Materialisimo.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Wave_10/Slimepunk.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Cuberpunk |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Cuberpunk.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Cuberpunk |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Cuberpunk.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Piwave | Fibonacciwave | Misterboombasicsuperfantasticwave |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles/Piwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Fibonacciwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Misterboombasicsuperfantasticwave.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Piwave | Fibonacciwave | Misterboombasicsuperfantasticwave |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles/Piwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Fibonacciwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles/Misterboombasicsuperfantasticwave.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-
-
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

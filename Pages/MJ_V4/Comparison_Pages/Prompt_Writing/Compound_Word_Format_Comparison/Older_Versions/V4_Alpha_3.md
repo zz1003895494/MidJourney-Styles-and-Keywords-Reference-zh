@@ -20,140 +20,137 @@
 <br>
 
 <table>
-	<tr align=center valign=middle>
-		<th width=200></th>
-		<th>Hot Dog</th>
-		<th>Lily Pad</th>
-		<th>Jellyfish</th>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hotdog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/LilyPad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jellyfish.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62; &#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot--space--dog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily--space--Pad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly--space--fish.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;_&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot_dog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily_Pad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly_fish.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;-&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot-dog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily-Pad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly-fish.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;+&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot+dog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily+Pad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly+fish.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;&&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot&dog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily&Pad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly&fish.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;~&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot~dog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily~Pad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly~fish.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;.&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot.dog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily.Pad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly.fish.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;/&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot--slash--dog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily--slash--Pad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly--slash--fish.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<td><i>&#60;word-1&#62;\&#60;word-2&#62;</i></td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot--backslash--dog.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily--backslash--Pad.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly--backslash--fish.webp?raw=true" width="256" />
-		</td>
-	</tr>
+    <tr align=center valign=middle>
+        <th width=200></th>
+        <th>Hot Dog</th>
+        <th>Lily Pad</th>
+        <th>Jellyfish</th>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hotdog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/LilyPad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jellyfish.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62; &#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot--space--dog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily--space--Pad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly--space--fish.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;_&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot_dog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily_Pad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly_fish.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;-&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot-dog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily-Pad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly-fish.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;+&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot+dog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily+Pad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly+fish.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;&&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot&dog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily&Pad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly&fish.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;~&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot~dog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily~Pad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly~fish.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;.&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot.dog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily.Pad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly.fish.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;/&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot--slash--dog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily--slash--Pad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly--slash--fish.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td><i>&#60;word-1&#62;\&#60;word-2&#62;</i></td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Hot_Dog/Hot--backslash--dog.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Lily_Pad/Lily--backslash--Pad.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Compound_Word_Comparison/Jellyfish/Jelly--backslash--fish.webp?raw=true" width="256" />
+        </td>
+    </tr>
 </table>
 
 </div>
 
-<br>
-
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

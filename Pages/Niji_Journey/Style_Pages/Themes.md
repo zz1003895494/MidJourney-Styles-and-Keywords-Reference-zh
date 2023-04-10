@@ -19,152 +19,151 @@
 
 - <details><summary>🎭⛱ Realism/Abstraction</summary><p><div align="center">
 
-	| Photorealistic |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Photorealistic.webp?raw=true" width="256" /> |
+    | Photorealistic |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Photorealistic.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Surrealism |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Surrealism.webp?raw=true" width="256" /> |
+    | Surrealism |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Surrealism.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Dreamlike | Dreamy | Fever-Dream |
-	| :-: | :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Dreamlike.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Dreamy.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Fever-Dream.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Dreamlike | Dreamy | Fever-Dream |
+    | :-: | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Dreamlike.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Dreamy.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Fever-Dream.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Wonderland |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Wonderland.webp?raw=true" width="256" /> |
+    | Wonderland |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Wonderland.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Fantasy | Ethereal Fantasy | Dark Fantasy |
-	| :-: | :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Fantasy.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Ethereal_Fantasy.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Dark_Fantasy.webp?raw=true" width="256" /> |
+    | Fantasy | Ethereal Fantasy | Dark Fantasy |
+    | :-: | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Fantasy.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Ethereal_Fantasy.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Dark_Fantasy.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🎭💾 Retro/Modern</summary><p><div align="center">
 
-	| Retro |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Retro.webp?raw=true" width="256" /> |
+    | Retro |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Retro.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🎭🪐 Sci-fi</summary><p><div align="center">
 
-	| Sci-fi |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Sci-fi.webp?raw=true" width="256" /> |
+    | Sci-fi |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Sci-fi.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Weirdcore_Aurora.webp?raw=true" width="256" /> |
+    | <br>Weirdcore Aurora<p><div align="center"><i><h6><a href="https://www.youtube.com/@FutureTechPilot">@Future Tech Pilot</a></h6></i></p> |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Weirdcore_Aurora.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Magical |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Magical.webp?raw=true" width="256" /> |
+    | Magical |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Magical.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Unicorncore |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Unicorncore.webp?raw=true" width="256" /> |
+    | Unicorncore |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Unicorncore.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Fairycore | Fairy Folk |
-	| :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Fairycore.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Fairy_Folk.webp?raw=true" width="256" /> |
+    | Fairycore | Fairy Folk |
+    | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Fairycore.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Fairy_Folk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Angelcore |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Angelcore.webp?raw=true" width="256" /> |
+    | Angelcore |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Angelcore.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
 
-	| Steampunk |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Steampunk.webp?raw=true" width="256" /> |
+    | Steampunk |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Steampunk.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🎭🎵 Music Styles</summary><p><div align="center">
 
-	| Disco |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Disco.webp?raw=true" width="256" /> |
+    | Disco |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Disco.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Vaporwave |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Vaporwave.webp?raw=true" width="256" /> |
+    | Vaporwave |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Vaporwave.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| K-Pop |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/K-Pop.webp?raw=true" width="256" /> |
+    | K-Pop |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/K-Pop.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🎭📺 Cartoons, Anime, and Comics</summary><p><div align="center">
 
-	| Cartoon |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Cartoon.webp?raw=true" width="256" /> |
+    | Cartoon |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Cartoon.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Anime | Animecore | Manga |
-	| :-: | :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Anime.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Animecore.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Manga.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Anime | Animecore | Manga |
+    | :-: | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Anime.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Animecore.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Manga.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Kawaii |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Kawaii.webp?raw=true" width="256" /> |
+    | Kawaii |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Kawaii.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🎭🎆 Colors, Crystals, Sparkles, and Light</summary><p><div align="center">
 
-	| Fractalpunk |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Fractalpunk.webp?raw=true" width="256" /> |
+    | Fractalpunk |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Fractalpunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| <br>Chromiesthesia<p><div align="center"><i><h6>@Chromie</h6></i></p> |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Chromiesthesia.webp?raw=true" width="256" /> |
+    | <br>Chromiesthesia<p><div align="center"><i><h6>@Chromie</h6></i></p> |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Chromiesthesia.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

@@ -18,61 +18,61 @@
 
 - <details><summary>🖼🟧 Simplicity/Complexity</summary><p><div align="center">
 
-	| Simple |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Simple.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Detailed | Hyperdetailed |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Detailed.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hyperdetailed.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Simple |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Simple.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Detailed | Hyperdetailed |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Detailed.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hyperdetailed.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Surface Detail | Intricate Surface Detail |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Surface_Detail.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Intricate_Surface_Detail.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Minimalist | Maximalist | Intricate Maximalism |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Minimalist.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Maximalist.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Intricate_Maximalism.webp?raw=true" width="256" /> |
+    | Surface Detail | Intricate Surface Detail |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Surface_Detail.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Intricate_Surface_Detail.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Minimalist | Maximalist | Intricate Maximalism |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Minimalist.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Maximalist.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Intricate_Maximalism.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Flat | Flat Design |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flat.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flat_Design.webp?raw=true" width="256" /> |
-	
+    <br>
+    
+    | Flat | Flat Design |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flat.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flat_Design.webp?raw=true" width="256" /> |
+    
   </div></p></details>
-	
-	
-	
+    
+    
+    
 - <details><summary>🖼🎨 Patterns</summary><p><div align="center">
-	
-	| Patterns |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Patterns.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Halftone |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Halftone.webp?raw=true" width="256" /> |
+    
+    | Patterns |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Patterns.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Halftone |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Halftone.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Damask Patterns |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Damask_Patterns.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Diffraction Patterns |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Diffraction_Patterns.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Damask Patterns |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Damask_Patterns.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Diffraction Patterns |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Diffraction_Patterns.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -80,9 +80,9 @@
 
 - <details><summary>🖼🧊 Cubism</summary><p><div align="center">
 
-	| Cubism |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cubism.webp?raw=true" width="256" /> |
+    | Cubism |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cubism.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -90,15 +90,15 @@
 
 - <details><summary>🖼🦋 Expressionism</summary><p><div align="center">
 
-	| Expressionism |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Expressionism.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Abstract Expressionism |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Abstract_Expressionism.webp?raw=true" width="256" /> |
+    | Expressionism |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Expressionism.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Abstract Expressionism |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Abstract_Expressionism.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -106,21 +106,21 @@
 
 - <details><summary>🖼🔮 Neo</summary><p><div align="center">
 
-	| Neo-Baroque | Neo-Byzantine | Neo-Rococo |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Baroque.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Byzantine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Rococo.webp?raw=true" width="256" /> |
+    | Neo-Baroque | Neo-Byzantine | Neo-Rococo |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Baroque.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Byzantine.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Rococo.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Neo-Dada |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Dada.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Neo-Tokyo |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Tokyo.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Neo-Dada |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Dada.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Neo-Tokyo |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neo-Tokyo.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -128,33 +128,33 @@
 
 - <details><summary>🖼🌀 Psychedelic, Divine, Fractal, and Noise</summary><p><div align="center">
 
-	| Psychedelic Design | Psychedelica | Acidwave |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Psychedelic_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Psychedelica.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Acidwave.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Kaleidoscope | Mandala |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Kaleidoscope.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mandala.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Psychedelic Design | Psychedelica | Acidwave |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Psychedelic_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Psychedelica.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Acidwave.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Kaleidoscope | Mandala |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Kaleidoscope.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mandala.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Sacred Geometry |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sacred_Geometry.webp?raw=true" width="256" /> |
+    | Sacred Geometry |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sacred_Geometry.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Fractal | Fractal Art |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fractal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fractal_Art.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Perlin Noise | Simplex Noise |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Perlin_Noise.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Simplex_Noise.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Fractal | Fractal Art |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fractal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fractal_Art.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Perlin Noise | Simplex Noise |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Perlin_Noise.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Simplex_Noise.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -167,67 +167,65 @@
 
     <br>
 
-	| Bauhaus Style | Warhol |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bauhaus_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Warhol.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Cloisonnism |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cloisonnism.webp?raw=true" width="256" /> |
+    | Bauhaus Style | Warhol |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bauhaus_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Warhol.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Cloisonnism |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cloisonnism.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Orientalism |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Orientalism.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Memphis Style | Memphis Design |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Memphis_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Memphis_Design.webp?raw=true" width="256" /> |
+    | Orientalism |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Orientalism.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Memphis Style | Memphis Design |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Memphis_Style.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Memphis_Design.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Store-Brand | Fourier Art |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Store-Brand.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fourier_Art.webp?raw=true" width="256" /> |
+    | Store-Brand | Fourier Art |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Store-Brand.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fourier_Art.webp?raw=true" width="256" /> |
 
 
   </div></p></details>
 
 
 - <details><summary>🖼💫 Stylized</summary><p><div align="center">
-	
-	| Synesthesia |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Synesthesia.webp?raw=true" width="256" /> |
+    
+    | Synesthesia |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Synesthesia.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Bubble Design | Extreme Bubble Design |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bubble_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Extreme_Bubble_Design.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Bubble Design | Extreme Bubble Design |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bubble_Design.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Extreme_Bubble_Design.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Liquify |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Liquify.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Liquify |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Liquify.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Lissajous |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lissajous.webp?raw=true" width="256" /> |
+    | Lissajous |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Lissajous.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

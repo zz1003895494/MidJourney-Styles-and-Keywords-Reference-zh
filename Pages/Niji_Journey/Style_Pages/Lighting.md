@@ -19,23 +19,22 @@
 
 - <details><summary>💡🏮 Types of Lights</summary><p><div align="center">
 
-	| Crepuscular Rays |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Crepuscular_Rays.webp?raw=true" width="256" /> |
+    | Crepuscular Rays |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Crepuscular_Rays.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>💡🪔 Lamps and Tubes</summary><p><div align="center">
 
-	| Plasma Globe |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Plasma_Globe.webp?raw=true" width="256" /> |
+    | Plasma Globe |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Plasma_Globe.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

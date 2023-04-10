@@ -18,29 +18,29 @@
 
 - <details><summary>➰😁 Emotions and Qualities</summary><p><div align="center">
 
-	| Happy |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Happy.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Sad |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sad.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Happy |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Happy.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Sad |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sad.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Angelic | Evil |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Angelic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Evil.webp?raw=true" width="256" /> |
+    | Angelic | Evil |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Angelic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Evil.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Creepy | Horror |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Creepy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Horror.webp?raw=true" width="256" /> |
+    | Creepy | Horror |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Creepy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Horror.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>➰☯ Symbols</summary><p>
@@ -69,22 +69,20 @@
     | :-: | :-: |
     | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Scorpio.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sagittarius.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>☯ Other Symbols</summary><p><div align="center">
 
-	| Yin Yang |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Yin_Yang.webp?raw=true" width="256" /> |
+    | Yin Yang |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Yin_Yang.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
-
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

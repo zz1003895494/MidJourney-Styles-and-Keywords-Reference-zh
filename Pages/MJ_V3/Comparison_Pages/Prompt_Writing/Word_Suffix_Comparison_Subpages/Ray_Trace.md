@@ -1,7 +1,7 @@
 <h2>📓 Word Suffix Comparison</h2>
 <h4>sphere, Ray Trace</h4>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 <br>
 
 
-<hr><!--------------->
+<hr>
 <div align="center">
 <h6><a href="/Pages/MJ_V3/Comparison_Pages/Prompt_Writing/Word_Suffix_Comparison.md">⬅ Go Back To Word Suffix Comparison</a></h6>
 </div>

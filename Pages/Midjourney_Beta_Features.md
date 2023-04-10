@@ -1,6 +1,6 @@
 <h2>🕋 MidJourney Beta Features</h2>
 
-<hr><!--------------->
+<hr>
 
 <h3>🌌 Midjourney V4 Alpha</h3>
 <br>
@@ -10,17 +10,17 @@
 <br>
 <a href="/Pages/Comparison_Pages/Version_Comparison/V4_test_testp.md">📇 Version Comparison - V4 vs --test vs --testp</a>
 
-<br><hr>
+<hr>
 
 <h3><a href="/Pages/Comparison_Pages/Version_Comparison/test_testp_creative.md">🧩 --test, --testp, and --creative</a></h3>
 <br>
 <a href="/Pages/Midjourney_Beta_Features/Tile_Parameter.md">🔲 --tile Parameter</a>
 
-<br><hr>
+<hr>
 
 <h3><a href="/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md">🚀 Beta Upscale</a></h3>
 
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

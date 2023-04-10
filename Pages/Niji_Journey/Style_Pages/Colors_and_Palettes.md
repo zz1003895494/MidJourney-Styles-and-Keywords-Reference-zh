@@ -21,57 +21,56 @@
 
   - <details><summary>🎨🔵 Extended Colors</summary><p><div align="center">
 
-	| Aqua |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Aqua.webp?raw=true" width="256" /> |
+    | Aqua |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Aqua.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
 - <details><summary>🎨 Color Based Designs</summary><p><div align="center">
 
-	| Spectrum |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Spectrum.webp?raw=true" width="256" /> |
+    | Spectrum |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Spectrum.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🎨🖌 Chromatic Palettes</summary><p><div align="center">
 
-	| Electric Colors |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Electric_Colors.webp?raw=true" width="256" /> |
+    | Electric Colors |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Electric_Colors.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🎨🖥 Color Models</summary><p><div align="center">
 
-	| CMYK |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/CMYK.webp?raw=true" width="256" /> |
+    | CMYK |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/CMYK.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| CGA |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/CGA.webp?raw=true" width="256" /> |
+    | CGA |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/CGA.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🎨🎥 Color Motion Picture Film Systems</summary><p><div align="center">
 
-	| Technicolor |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Technicolor.webp?raw=true" width="256" /> |
+    | Technicolor |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Technicolor.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

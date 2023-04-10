@@ -20,51 +20,51 @@
 
 - <details><summary>♻➰ Spirals, Loops, and Helixes</summary><p><div align="center">
 
-	| Whirl | Spiraling | Spiral |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Whirl.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiraling.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiral.webp?raw=true" width="256" /> |
+    | Whirl | Spiraling | Spiral |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Whirl.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiraling.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiral.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Hyperbolic Spiral | Euler Spiral | Fermat's Spiral |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Hyperbolic_Spiral.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Euler_Spiral.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Fermats_Spiral.webp?raw=true" width="256" /> |
+    | Hyperbolic Spiral | Euler Spiral | Fermat's Spiral |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Hyperbolic_Spiral.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Euler_Spiral.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Fermats_Spiral.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Logarithmic Spiral | Doyle Spiral | Triskelion |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Logarithmic_Spiral.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Doyle_Spiral.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Triskelion.webp?raw=true" width="256" /> |
+    | Logarithmic Spiral | Doyle Spiral | Triskelion |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Logarithmic_Spiral.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Doyle_Spiral.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Triskelion.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Spiral of Theodorus | Archimedean Spiral | Golden Spiral |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiral_of_Theodorus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Archimedean_Spiral.webp?raw=true" width="256"/> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Golden_Spiral.webp?raw=true" width="256" /> |
+    | Spiral of Theodorus | Archimedean Spiral | Golden Spiral |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiral_of_Theodorus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Archimedean_Spiral.webp?raw=true" width="256"/> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Golden_Spiral.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Spiral Stairs | Spiral Staircase |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiral_Stairs.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiral_Staircase.webp?raw=true" width="256" /> |
+    | Spiral Stairs | Spiral Staircase |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiral_Stairs.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spiral_Staircase.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Loop-De-Loop | Loopy |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Loop-de-loop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Loopy.webp?raw=true" width="256" /> |
+    | Loop-De-Loop | Loopy |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Loop-de-loop.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Loopy.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Helix | Double-Helix |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Helix.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Double-Helix.webp?raw=true" width="256" /> |
+    | Helix | Double-Helix |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Helix.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Double-Helix.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Twisted | Coiled |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Twisted.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Coiled.webp?raw=true" width="256" /> |
+    | Twisted | Coiled |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Twisted.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Coiled.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -72,145 +72,145 @@
 
 - <details><summary>♻〰 Curves and Waves</summary><p><div align="center">
 
-	| Curve | Bezier Curve |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Curve.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Bezier_Curve.webp?raw=true" width="256" /> |
+    | Curve | Bezier Curve |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Curve.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Bezier_Curve.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Wave | Wavy |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Wave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Wavy.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Wave | Wavy |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Wave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Wavy.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Curvaceous | Curvilinear | Sinuous |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Curvaceous.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Curvilinear.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sinuous.webp?raw=true" width="256" /> |
+    | Curvaceous | Curvilinear | Sinuous |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Curvaceous.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Curvilinear.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sinuous.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Curlicue |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Curlicue.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Curlicue |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Curlicue.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Ripple | Squiggly |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Ripple.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Squiggly.webp?raw=true" width="256" /> |
+    | Ripple | Squiggly |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Ripple.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Squiggly.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Dimpled | Incurved | Incurvate |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Dimpled.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Incurved.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Incurvate.webp?raw=true" width="256" /> |
+    | Dimpled | Incurved | Incurvate |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Dimpled.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Incurved.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Incurvate.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Arched | Arciform |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Arched.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Arciform.webp?raw=true" width="256" /> |
+    | Arched | Arciform |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Arched.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Arciform.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Arrondi | Sigmoid |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Arrondi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sigmoid.webp?raw=true" width="256" /> |
+    | Arrondi | Sigmoid |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Arrondi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sigmoid.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Serpentine |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Serpentine.webp?raw=true" width="256" /> |
+    | Serpentine |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Serpentine.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>♻🕸 Knots</summary><p><div align="center">
 
-	| Knot | Unknot |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Knot.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Unknot.webp?raw=true" width="256" /> |
+    | Knot | Unknot |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Knot.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Unknot.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Entangled | Entanglement |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Entangled.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Entanglement.webp?raw=true" width="256" /> |
+    | Entangled | Entanglement |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Entangled.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Entanglement.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Celtic Knot | Pretzel Knot |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Celtic_Knot.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Pretzel_Knot.webp?raw=true" width="256" /> |
+    | Celtic Knot | Pretzel Knot |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Celtic_Knot.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Pretzel_Knot.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>♻⭕ Circular</summary><p><div align="center">
 
-	| Circle | Circular |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Circle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Circular.webp?raw=true" width="256" /> |
+    | Circle | Circular |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Circle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Circular.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Rounded | Spherize | Spherical |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Rounded.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spherize.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Spherical.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Rounded | Spherize | Spherical |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Rounded.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spherize.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Spherical.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Concentric | Concentric Circles | Concentric Rings |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Concentric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Concentric_Circles.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Concentric_Rings.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Concentric | Concentric Circles | Concentric Rings |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Concentric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Concentric_Circles.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Concentric_Rings.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Concentric Spheres | Contour |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Concentric_Spheres.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Contour.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Concentric Spheres | Contour |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Concentric_Spheres.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Contour.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Circinate | Orbicular | Oblique |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Circinate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Orbicular.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Oblique.webp?raw=true" width="256" /> |
+    | Circinate | Orbicular | Oblique |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Circinate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Orbicular.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Oblique.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>♻🗡️ Dull and Pointy</summary><p><div align="center">
 
-	| Pointy | Pointed |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pointy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pointed.webp?raw=true" width="256" /> |
+    | Pointy | Pointed |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pointy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pointed.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>♻ Other</summary><p><div align="center">
 
-	| Zig-Zag | Deflate | Inflate |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Zig-Zag.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Deflate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Inflate.webp?raw=true" width="256" /> |
+    | Zig-Zag | Deflate | Inflate |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Zig-Zag.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Deflate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Inflate.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Incline | Declinate | Biflected |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Incline.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Declinate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Biflected.webp?raw=true" width="256" /> |
+    | Incline | Declinate | Biflected |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Incline.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Declinate.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Biflected.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Hollow | Enbowed |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Hollow.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Enbowed.webp?raw=true" width="256" /> |
+    | Hollow | Enbowed |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Hollow.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Enbowed.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

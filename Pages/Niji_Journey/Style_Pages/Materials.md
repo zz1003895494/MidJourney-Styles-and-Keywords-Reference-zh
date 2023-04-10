@@ -21,60 +21,59 @@
 
   - <details><summary>🧱🔩 Metal</summary><p><div align="center">
 
-	| Brushed Aluminum |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Brushed_Aluminum.webp?raw=true" width="256" /> |
+    | Brushed Aluminum |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Brushed_Aluminum.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Anodized Titanium |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Anodized_Titanium.webp?raw=true" width="256" /> |
+    | Anodized Titanium |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Anodized_Titanium.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>🧱💎 Glass and Crystal</summary><p><div align="center">
 
-	| Amethyst |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Amethyst.webp?raw=true" width="256" /> |
+    | Amethyst |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Amethyst.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Milky Quartz |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Milky_Quartz.webp?raw=true" width="256" /> |
+    | Milky Quartz |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Milky_Quartz.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Agate |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Agate.webp?raw=true" width="256" /> |
+    | Agate |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Agate.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
 - <details><summary>🧱💧 Liquids</summary><p><div align="center">
 
-	| Liquid Crystal |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /> |
+    | Liquid Crystal |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🧱🌫️ Gasses and Vapors</summary><p><div align="center">
 
-	| Clouds |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Clouds.webp?raw=true" width="256" /> |
+    | Clouds |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Clouds.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

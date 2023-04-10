@@ -19,75 +19,75 @@
 
 - <details><summary>💡🏮 Types of Lights</summary><p><div align="center">
 
-	| Spotlight |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spotlight.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Frontlight | Backlight |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Frontlight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Backlight.webp?raw=true" width="256" /> | 
-	
-	<br>
-	
-	| Rim Lighting |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rim_Lighting.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Crepuscular Rays | Rays of Shimmering Light |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Crepuscular_Rays.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rays_of_Shimmering_Light.webp?raw=true" width="256" /> |
+    | Spotlight |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spotlight.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Frontlight | Backlight |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Frontlight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Backlight.webp?raw=true" width="256" /> | 
+    
+    <br>
+    
+    | Rim Lighting |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rim_Lighting.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Crepuscular Rays | Rays of Shimmering Light |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Crepuscular_Rays.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rays_of_Shimmering_Light.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Sunlight | Sunshine Ray |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunlight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunshine_Ray.webp?raw=true" width="256" /> |
+    | Sunlight | Sunshine Ray |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunlight.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sunshine_Ray.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Glow Stick |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glow_Stick.webp?raw=true" width="256" /> |
+    | Glow Stick |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Glow_Stick.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>💡🪔 Lamps and Tubes</summary><p><div align="center">
 
-	| Plasma Globe |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plasma_Globe.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Plasma Globe |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plasma_Globe.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Neon Lamp |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neon_Lamp.webp?raw=true" width="256" /> |
-	
-	</div></p></details>
+    | Neon Lamp |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neon_Lamp.webp?raw=true" width="256" /> |
+    
+    </div></p></details>
 
 
 - <details><summary>💡🔦 Lighting Styles and Techniques</summary><p><div align="center">
 
-	| Moody Lighting | Cinematic Lighting | Studio Lighting |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Moody_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cinematic_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Studio_Lighting.webp?raw=true" width="256" /> | 
-	
-	<br>
-	
-	| Volumetric Lighting |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Volumetric_Lighting.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Moody Lighting | Cinematic Lighting | Studio Lighting |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Moody_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cinematic_Lighting.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Studio_Lighting.webp?raw=true" width="256" /> | 
+    
+    <br>
+    
+    | Volumetric Lighting |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Volumetric_Lighting.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	</div></p></details>
+    </div></p></details>
 
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

@@ -19,28 +19,28 @@
 
 - <details><summary>📷🌇 Camera and Scenes</summary><p><div align="center">
 
-	| Cinematic |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Cinematic.webp?raw=true" width="256" /> |
+    | Cinematic |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Cinematic.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Bokeh |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Bokeh.webp?raw=true" width="256" /> |
+    | Bokeh |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Bokeh.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>📷 Other</summary><p><div align="center">
 
-	| Lens Flare |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Lens_Flare.webp?raw=true" width="256" /> |
+    | Lens Flare |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Lens_Flare.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

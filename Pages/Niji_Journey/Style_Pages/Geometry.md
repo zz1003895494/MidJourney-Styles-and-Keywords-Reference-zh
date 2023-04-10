@@ -19,41 +19,40 @@
 
 - <details><summary>💠⬜ 2D Shapes</summary><p><div align="center">
 
-	| Hexagonal |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Hexagonal.webp?raw=true" width="256" /> |
+    | Hexagonal |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Hexagonal.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>💠🧊 3D Shapes</summary><p><div align="center">
 
-	| Sphere |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Sphere.webp?raw=true" width="256" /> |
+    | Sphere |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Sphere.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>💠🔲 4D Hyper Shapes</summary><p><div align="center">
 
-	| Klein Bottle |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Klein_Bottle.webp?raw=true" width="256" /> |
+    | Klein Bottle |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Klein_Bottle.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>💠⏹ Geometric Styles</summary><p><div align="center">
 
-	| Polygonal |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Polygonal.webp?raw=true" width="256" /> |
+    | Polygonal |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Polygonal.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

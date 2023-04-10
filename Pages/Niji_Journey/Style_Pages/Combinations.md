@@ -8,20 +8,16 @@
 <br>
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_active_full.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Style_Pages/Combinations.md)
 
-
 </div>
 
 <hr>
 <br>
 
-
 <p><div align="center">
-
-
 
 </div></p>
 
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

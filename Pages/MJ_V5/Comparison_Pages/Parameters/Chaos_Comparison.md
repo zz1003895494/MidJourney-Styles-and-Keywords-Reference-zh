@@ -2,7 +2,7 @@
 <b>The Chaos Parameter will add more "randomness" to your images. In practice, it seems to make them more stylized.</b>
 <br>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -22,88 +22,86 @@
 <div align="center">
 
 <table>
-	<tr align=center valign=middle>
-		<th>--chaos 0</th>
-		<th>--chaos 10</th>
-		<th>--chaos 20</th>
-	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_0.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_10.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_20.webp?raw=true" width="256" />
-		</td>
-	</tr>
+    <tr align=center valign=middle>
+        <th>--chaos 0</th>
+        <th>--chaos 10</th>
+        <th>--chaos 20</th>
+    </tr>
+    <tr align=center valign=middle>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_0.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_10.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_20.webp?raw=true" width="256" />
+        </td>
+    </tr>
 </table>
 
 <br>
 
 <table>
-	<tr align=center valign=middle>
-		<th>--chaos 30</th>
-		<th>--chaos 40</th>
-		<th>--chaos 50</th>
-	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_30.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_40.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_50.webp?raw=true" width="256" />
-		</td>
-	</tr>
+    <tr align=center valign=middle>
+        <th>--chaos 30</th>
+        <th>--chaos 40</th>
+        <th>--chaos 50</th>
+    </tr>
+    <tr align=center valign=middle>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_30.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_40.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_50.webp?raw=true" width="256" />
+        </td>
+    </tr>
 </table>
 
 <br>
 
 <table>
-	<tr align=center valign=middle>
-		<th>--chaos 60</th>
-		<th>--chaos 70</th>
-		<th>--chaos 80</th>
-	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_60.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_70.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_80.webp?raw=true" width="256" />
-		</td>
-	</tr>
+    <tr align=center valign=middle>
+        <th>--chaos 60</th>
+        <th>--chaos 70</th>
+        <th>--chaos 80</th>
+    </tr>
+    <tr align=center valign=middle>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_60.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_70.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_80.webp?raw=true" width="256" />
+        </td>
+    </tr>
 </table>
 
 <br>
 
 <table>
-	<tr align=center valign=middle>
-		<th>--chaos 90</th>
-		<th>--chaos 100</th>
-	</tr>
-	<tr align=center valign=middle>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_90.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_100.webp?raw=true" width="256" />
-		</td>
-	</tr>
+    <tr align=center valign=middle>
+        <th>--chaos 90</th>
+        <th>--chaos 100</th>
+    </tr>
+    <tr align=center valign=middle>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_90.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V5/V5_Alpha_1/Comparison_Page_Images/Chaos_Comparison/Opal_chaos_100.webp?raw=true" width="256" />
+        </td>
+    </tr>
 </table>
 
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

@@ -1,6 +1,6 @@
 <h2>🎇📏 --stylize/Resolution Cross Analysis</h2>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -155,7 +155,7 @@
 
 <br>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 <h3>📐 Square Resolutions (--w --h)</h3>
@@ -258,9 +258,7 @@
 
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+	<h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

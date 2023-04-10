@@ -19,65 +19,64 @@
 
 - <details><summary>🌲 Nature</summary><p><div align="center">
 
-	| Environment |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Environment.webp?raw=true" width="256" /> |
+    | Environment |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Environment.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Biopunk |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Biopunk.webp?raw=true" width="256" /> |
-	
-	<br>
+    <br>
+    
+    | Biopunk |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Biopunk.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Seapunk |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seapunk.webp?raw=true" width="256" /> |
+    | Seapunk |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seapunk.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🌲🌱 Plants</summary><p><div align="center">
 
-	| Plant | Grass |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plant.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Grass.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Flowers |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flowers.webp?raw=true" width="256" /> |
+    | Plant | Grass |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Plant.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Grass.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Flowers |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Flowers.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🌲🍄 Fungi</summary><p><div align="center">
 
-	| Fungi | Mushrooms |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fungi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mushrooms.webp?raw=true" width="256" /> |
+    | Fungi | Mushrooms |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fungi.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Mushrooms.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🌲⛄ Seasons and Weather</summary><p><div align="center">
 
-	| Seasons | Spring | Summer |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seasons.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spring.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Summer.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Autumn | Winter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Autumn.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Winter.webp?raw=true" width="256" /> |
+    | Seasons | Spring | Summer |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seasons.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spring.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Summer.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Autumn | Winter |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Autumn.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Winter.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

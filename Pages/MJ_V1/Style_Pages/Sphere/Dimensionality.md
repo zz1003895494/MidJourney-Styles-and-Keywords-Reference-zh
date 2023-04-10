@@ -18,40 +18,40 @@
 
 - <details><summary>🌌 2D-5D</summary><p><div align="center">
 
-	| 2-Dimensional | 2D |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_2-Dimensional.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_2D.webp?raw=true" width="256" /> | 
-	
-	<br>
-	
-	| 3-Dimensional | 3D |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_3-Dimensional.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_3D.webp?raw=true" width="256" /> | 
-	
-	<br>
-	
-	| 4-Dimensional | 4D |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_4-Dimensional.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_4D.webp?raw=true" width="256" /> | 
+    | 2-Dimensional | 2D |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_2-Dimensional.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_2D.webp?raw=true" width="256" /> | 
+    
+    <br>
+    
+    | 3-Dimensional | 3D |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_3-Dimensional.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_3D.webp?raw=true" width="256" /> | 
+    
+    <br>
+    
+    | 4-Dimensional | 4D |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_4-Dimensional.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_4D.webp?raw=true" width="256" /> | 
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🌌 Overdimensional, Multiverse, etc.</summary><p><div align="center">
 
-	| Hyperdimensional |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hyperdimensional.webp?raw=true" width="256" /> | 
-	
-	<br>
-	
-	| Extradimensional |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Extradimensional.webp?raw=true" width="256" /> |
+    | Hyperdimensional |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hyperdimensional.webp?raw=true" width="256" /> | 
+    
+    <br>
+    
+    | Extradimensional |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Extradimensional.webp?raw=true" width="256" /> |
 
-	</div></p></details>
-	    
-<hr><!--------------->
+    </div></p></details>
+
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

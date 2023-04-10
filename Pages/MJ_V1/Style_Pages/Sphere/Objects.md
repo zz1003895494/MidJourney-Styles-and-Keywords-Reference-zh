@@ -19,35 +19,34 @@
 
 - <details><summary>🎷🪀 Toys</summary><p><div align="center">
 
-	| Rubik's Cube |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rubiks_Cube.webp?raw=true" width="256" /> |
+    | Rubik's Cube |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Rubiks_Cube.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎷🚽 Other Objects</summary><p><div align="center">
 
-	| Seashell | Toilet | Tornado |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seashell.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Toilet.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Tornado.webp?raw=true" width="256" /> |
+    | Seashell | Toilet | Tornado |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Seashell.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Toilet.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Tornado.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Silly Band |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Silly_Band.webp?raw=true" width="256" /> |
+    | Silly Band |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Silly_Band.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| <br>Teapot<p><div align="center"><i><h6><a href="https://rexwang8.github.io/resource/ai/teapot">@bob</a></h6></i></p> |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Teapot.webp?raw=true" width="256" /> |
+    | <br>Teapot<p><div align="center"><i><h6><a href="https://rexwang8.github.io/resource/ai/teapot">@bob</a></h6></i></p> |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Teapot.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

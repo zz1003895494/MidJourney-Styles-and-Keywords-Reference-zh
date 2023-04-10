@@ -1,6 +1,6 @@
 <h2>More Comparison Pages</h2>
 
-<hr><!--------------->
+<hr>
 
 <br>
 
@@ -27,8 +27,8 @@
     <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_font_comparison_light.webp?raw=true" width = 249>
     <img alt="© Font Comparison" src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_font_comparison.webp?raw=true" width = 249>
 </picture></a>
-<br><!------------->
-<br><!------------->
+<br>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_parameters.webp?raw=true" width = 758>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_parameters_light.webp?raw=true" width = 758>
@@ -40,8 +40,8 @@
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_seed_parameter_full_light.webp?raw=true" width = 758>
   <img alt="🌱 Seed and Sameseed" src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_seed_parameter_full.webp?raw=true" width = 758>
 </picture></a>
-<br><!------------->
-<br><!------------->
+<br>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/cross_analysis_pages.webp?raw=true" width = 758>
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/cross_analysis_pages_light.webp?raw=true" width = 758>
@@ -56,9 +56,7 @@
 
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

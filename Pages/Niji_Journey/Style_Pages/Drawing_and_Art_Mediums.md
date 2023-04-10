@@ -21,52 +21,52 @@
 
   - <details><summary>✏🖼 Drawing Types</summary><p><div align="center">
 
-	| Sketch | Drawing | Doodle |
-	| :-: | :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Drawing.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Sketch.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Doodle.webp?raw=true" width="256" /> |
+    | Sketch | Drawing | Doodle |
+    | :-: | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Drawing.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Sketch.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Doodle.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Stipple |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Stipple.webp?raw=true" width="256" /> |
+    | Stipple |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Stipple.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Illustration | Storybook Illustration |
-	| :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Illustration.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Storybook_Illustration.webp?raw=true" width="256" /> |
+    | Illustration | Storybook Illustration |
+    | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Illustration.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Storybook_Illustration.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Whimsical Illustration |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Whimsical_Illustration.webp?raw=true" width="256" /> |
+    | Whimsical Illustration |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Whimsical_Illustration.webp?raw=true" width="256" /> |
 
-	
+    
 
   - <details><summary>✏ Pencil and Graphite</summary><p><div align="center">
 
-	| Colored Pencil |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Colored_Pencil.webp?raw=true" width="256" /> |
+    | Colored Pencil |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Colored_Pencil.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>✏🖊 Ink</summary><p><div align="center">
 
-	| Ballpoint Pen |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Ballpoint_Pen.webp?raw=true" width="256" /> |
+    | Ballpoint Pen |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Ballpoint_Pen.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Marker Art |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
+    | Marker Art |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
@@ -75,32 +75,32 @@
 
   - <details><summary>🎨🖼 Painting Types</summary><p><div align="center">
 
-	| Painting |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Painting.webp?raw=true" width="256" /> |
+    | Painting |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Painting.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Japanese Painting |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Japanese_Painting.webp?raw=true" width="256" /> |
+    | Japanese Painting |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Japanese_Painting.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Paper-Marbling |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Paper-Marbling.webp?raw=true" width="256" /> |
+    | Paper-Marbling |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Paper-Marbling.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>🎨 Paint Types</summary><p><div align="center">
 
-	| Splatter Paint |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Splatter_Paint.webp?raw=true" width="256" /> |
+    | Splatter Paint |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Splatter_Paint.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
@@ -109,20 +109,20 @@
 
   - <details><summary>🖨📄 Print Types</summary><p><div align="center">
 
-	| Comic Book |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Comic_Book.webp?raw=true" width="256" /> |
+    | Comic Book |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Comic_Book.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>🖨🃏 Cards and Stamps</summary><p><div align="center">
 
-	| Pokemon Card | Pokémon Card |
-	| :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card (2).webp?raw=true" width="256" /> |
+    | Pokemon Card | Pokémon Card |
+    | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Pokemon_Card (2).webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
@@ -131,37 +131,37 @@
 
   - <details><summary>🎲🖼 Framed, Banner, and Decal</summary><p><div align="center">
 
-	| Wall Decal |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Wall_Decal.webp?raw=true" width="256" /> |
+    | Wall Decal |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Wall_Decal.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>🎲🗿 Carving, Etching, and Modeling</summary><p><div align="center">
 
-	| Bejeweled |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Bejeweled.webp?raw=true" width="256" /> |
+    | Bejeweled |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Bejeweled.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Carved Lacquer |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
+    | Carved Lacquer |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   - <details><summary>🎲🏺 Pottery and Glass</summary><p><div align="center">
 
-	| Bone China |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Bone_China.webp?raw=true" width="256" /> |
+    | Bone China |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Bone_China.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
-	    
-<hr><!--------------->
+        
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

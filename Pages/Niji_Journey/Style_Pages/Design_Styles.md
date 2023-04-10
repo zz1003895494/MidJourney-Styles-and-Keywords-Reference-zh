@@ -19,122 +19,121 @@
 
 - <details><summary>🖼🟧 Simplicity/Complexity</summary><p><div align="center">
 
-	| Simple |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Simple.webp?raw=true" width="256" /> |
+    | Simple |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Simple.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Detailed | Hyperdetailed |
-	| :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Detailed.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Hyperdetailed.webp?raw=true" width="256" /> |
+    | Detailed | Hyperdetailed |
+    | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Detailed.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Hyperdetailed.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Chaotic |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Chaotic.webp?raw=true" width="256" /> |
+    | Chaotic |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Chaotic.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Intricate Surface Detail |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Intricate_Surface_Detail.webp?raw=true" width="256" /> |
+    | Intricate Surface Detail |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Intricate_Surface_Detail.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Flat Design |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Flat_Design.webp?raw=true" width="256" /> |
+    | Flat Design |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Flat_Design.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Minimalist | Maximalist |
-	| :-: | :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Minimalist.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Maximalist.webp?raw=true" width="256" /> |
+    | Minimalist | Maximalist |
+    | :-: | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Minimalist.webp?raw=true" width="256" /> | <img src="/Images/Niji_Journey/MidJourney_Styles/Maximalist.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🖼🎨 Patterns</summary><p><div align="center">
 
-	| Halftone |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Halftone.webp?raw=true" width="256" /> |
+    | Halftone |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Halftone.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Diffraction Patterns |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Diffraction_Patterns.webp?raw=true" width="256" /> |
+    | Diffraction Patterns |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Diffraction_Patterns.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🖼🧊 Cubism</summary><p><div align="center">
 
-	| Cubism |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Cubism.webp?raw=true" width="256" /> |
+    | Cubism |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Cubism.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🖼🔮 Neo</summary><p><div align="center">
 
-	| Neo-Tokyo |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Neo-Tokyo.webp?raw=true" width="256" /> |
+    | Neo-Tokyo |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Neo-Tokyo.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🖼🌀 Psychedelic, Divine, Fractal, and Noise</summary><p><div align="center">
 
-	| Psychedelica |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Psychedelica.webp?raw=true" width="256" /> |
+    | Psychedelica |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Psychedelica.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Sacred Geometry |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Sacred_Geometry.webp?raw=true" width="256" /> |
+    | Sacred Geometry |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Sacred_Geometry.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🖼🌈 Synesthesia</summary><p><div align="center">
 
-	| Synesthesia |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Synesthesia.webp?raw=true" width="256" /> |
+    | Synesthesia |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Synesthesia.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🖼💫 Stylized</summary><p><div align="center">
 
-	| Extreme Bubble Design |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Extreme_Bubble_Design.webp?raw=true" width="256" /> |
+    | Extreme Bubble Design |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Extreme_Bubble_Design.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Liquify |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Liquify.webp?raw=true" width="256" /> |
+    | Liquify |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Liquify.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Lissajous |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Lissajous.webp?raw=true" width="256" /> |
+    | Lissajous |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Lissajous.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

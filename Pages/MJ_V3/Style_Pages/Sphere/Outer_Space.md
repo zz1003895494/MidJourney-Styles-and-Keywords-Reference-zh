@@ -21,144 +21,144 @@
 
 - <details><summary>☄🌌 Galaxies, Nebulae, and Other Cosmic Structures</summary><p><div align="center">
 
-	| Galaxy |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Galaxy.webp?raw=true" width="256" /> |
+    | Galaxy |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Galaxy.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Nebula | Supernova | Hypernova |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nebula.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Supernova.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Hypernova.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Nebula | Supernova | Hypernova |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Nebula.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Supernova.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Hypernova.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Vela Pulsar | Quasar | Microquasar |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Vela_Pulsar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Quasar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Microquasar.webp?raw=true" width="256" /> |
+    | Vela Pulsar | Quasar | Microquasar |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Vela_Pulsar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Quasar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Microquasar.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Asteroid |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Asteroid.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Asteroid |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Asteroid.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>☄⚫ Black Holes and Singularities</summary><p><div align="center">
 
-	| Blackhole | Wormhole |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Blackhole.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Wormhole.webp?raw=true" width="256" /> |
+    | Blackhole | Wormhole |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Blackhole.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Wormhole.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>☄🌎 Planetary Bodies</summary><p><div align="center">
 
-	| Planet | Planets | Planetary |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Planet.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Planets.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Planetary.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Planet | Planets | Planetary |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Planet.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Planets.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Planetary.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Planet Mercury |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Mercury.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Planet Venus |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Venus.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Earth | Planet Earth | Global |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Earth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Earth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Global.webp?raw=true" width="256" /> |
+    | Planet Mercury |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Mercury.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Planet Venus |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Venus.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Earth | Planet Earth | Global |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Earth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Earth.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_13/sphere_Global.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Mars | Planet Mars |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Mars.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Mars.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Jupiter | Planet Jupiter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Jupiter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Jupiter.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Saturn | Planet Saturn |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Saturn.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Saturn.webp?raw=true" width="256" /> |
+    | Mars | Planet Mars |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Mars.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Mars.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Jupiter | Planet Jupiter |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Jupiter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Jupiter.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Saturn | Planet Saturn |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Saturn.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Saturn.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Uranus | Planet Uranus |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Uranus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Uranus.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Neptune | Planet Neptune |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Neptune.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Neptune.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Pluto | Planet Pluto |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pluto.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Pluto.webp?raw=true" width="256" /> |
-	
+    <br>
+    
+    | Uranus | Planet Uranus |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Uranus.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Uranus.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Neptune | Planet Neptune |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Neptune.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Neptune.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Pluto | Planet Pluto |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Pluto.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Planet_Pluto.webp?raw=true" width="256" /> |
+    
   </div></p></details>
 
 
 - <details><summary>☄🌟 Stars</summary><p><div align="center">
 
-	| Sun |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sun.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Sun |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Sun.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Starry | Stellar Corona |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Starry.webp?raw=true" width="256" /> <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Stellar_Corona.webp?raw=true" width="256" /> |
+    | Starry | Stellar Corona |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Starry.webp?raw=true" width="256" /> <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Stellar_Corona.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Neutron Star | Magnetar |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Neutron_Star.webp?raw=true" width="256" /> |  <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Magnetar.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Constellation |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Constellation.webp?raw=true" width="256" /> |
+    | Neutron Star | Magnetar |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Neutron_Star.webp?raw=true" width="256" /> |  <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Magnetar.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Constellation |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_14/sphere_Constellation.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>☄⚛ Types of Matter</summary><p><div align="center">
 
-	| Antimatter | Dark Matter |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Antimatter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Dark_Matter.webp?raw=true" width="256" /> |
+    | Antimatter | Dark Matter |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Antimatter.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Dark_Matter.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>☄🌘 Solar Phenomena</summary><p><div align="center">
 
-	| Solar Eclipse | Eclipse |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Solar_Eclipse.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Eclipse.webp?raw=true" width="256" /> |
+    | Solar Eclipse | Eclipse |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Solar_Eclipse.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_10/sphere_Eclipse.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -166,43 +166,42 @@
 - <details><summary>☄ Other</summary><p><div align="center">
 
     | Spacecore | Cosmic | Celestial |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spacecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Cosmic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Celestial.webp?raw=true" width="256" /> |
-	
-	<br>
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Spacecore.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Cosmic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Celestial.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Stellar | Interstellar | Interstellar Space |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Stellar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Interstellar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Interstellar_Space.webp?raw=true" width="256" /> |
+    | Stellar | Interstellar | Interstellar Space |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Stellar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Interstellar.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_9/sphere_Interstellar_Space.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Galactic | Lunar |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Galactic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Lunar.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Galactic | Lunar |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Galactic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_12/sphere_Lunar.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Outer Space | Universe |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Outer_Space.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Universe.webp?raw=true" width="256" /> |
+    | Outer Space | Universe |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Outer_Space.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Universe.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Orbital | NASA |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Orbital.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_NASA.webp?raw=true" width="256" /> |
+    | Orbital | NASA |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_Orbital.webp?raw=true" width="256" /> | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/Wave_11/sphere_NASA.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Crab Pulsar |
-	| :-: |
-	| <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Crab_Pulsar.webp?raw=true" width="256" /> |
+    | Crab Pulsar |
+    | :-: |
+    | <img src="/Images/MJ_V3/MidJourney_Styles_(sphere)/sphere_Crab_Pulsar.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

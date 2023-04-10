@@ -19,29 +19,28 @@
 
 - <details><summary>🌲🍄 Fungi</summary><p><div align="center">
 
-	| Lactarius-Indigo |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Lactarius-Indigo.webp?raw=true" width="256" /> |
+    | Lactarius-Indigo |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Lactarius-Indigo.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
 - <details><summary>🌲⛄ Seasons and Weather</summary><p><div align="center">
 
-	| Autumn |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Autumn.webp?raw=true" width="256" /> |
+    | Autumn |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Autumn.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Tornado |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Tornado.webp?raw=true" width="256" /> |
+    | Tornado |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Tornado.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

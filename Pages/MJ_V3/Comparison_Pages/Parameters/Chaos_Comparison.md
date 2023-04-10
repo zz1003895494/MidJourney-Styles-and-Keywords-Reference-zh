@@ -2,7 +2,7 @@
 <b>The Chaos Parameter will add more "randomness" to your images. In practice, it seems to make them more stylized.</b>
 <br>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -168,9 +168,7 @@
 
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+	<h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

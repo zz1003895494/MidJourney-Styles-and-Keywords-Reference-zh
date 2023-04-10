@@ -76,7 +76,7 @@
 | <img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Flux.webp?raw=true" width="256" /> | <img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_10/sphere_Fluxus.webp?raw=true" width="256" /> |
 
 <br>
-	
+    
 | Bare |
 | :-: |
 | <img src="/Images/MJ_V2/MidJourney_Styles_(sphere)/Wave_13/sphere_Bare.webp?raw=true" width="256" /> |
@@ -89,7 +89,7 @@
 
 </div></p>
 
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

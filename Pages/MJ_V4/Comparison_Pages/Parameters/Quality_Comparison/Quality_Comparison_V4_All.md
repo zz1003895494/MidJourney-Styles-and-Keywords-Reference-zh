@@ -2,7 +2,7 @@
 <b>The Quality Parameter will define how long the AI spends creating your image.</b>
 <br>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -28,105 +28,103 @@
 <div align="center">
 
 <table>
-	<tr align=center valign=middle>
-		<th width=148></th>
-		<th width=176><br>Alpha 1<p><code>Sphere</code></p></th>
-		<th width=176><br>Alpha 2.5 4a<p><code>Sphere</code></p></th>
-		<th width=176><br>Alpha 2.5 4b<p><code>Sphere</code></p></th>
-		<th width=176><br>Alpha 3<p><code>Galaxy</code></p></th>
-		<th width=176><br>Alpha 3.6<p><code>Galaxy</code></p></th>
-	</tr>
-	<tr align=center valign=middle>
-		<th><br>--quality 0.25<br><code>25%</code></th>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_1/Comparison_Page_Images/Quality_Comparison/sphere_quality_0.25.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Quality_Comparison/Sphere_quality_0.25.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Comparison_Page_Images/Quality_Comparison/Sphere_quality_0.25.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.25.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.25.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<th><br>--quality 0.5<br><code>50%</code></th>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_1/Comparison_Page_Images/Quality_Comparison/sphere_quality_0.5.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Quality_Comparison/Sphere_quality_0.5.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Comparison_Page_Images/Quality_Comparison/Sphere_quality_0.5.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.5.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.5.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<th><br>--quality 1<br><code>100% (Default)</code></th>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_1/Comparison_Page_Images/Quality_Comparison/sphere_quality_1.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Quality_Comparison/Sphere_quality_1.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Comparison_Page_Images/Quality_Comparison/Sphere_quality_1.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_1.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_1.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<th><br>--quality 2<br><code>200%</code></th>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_1/Comparison_Page_Images/Quality_Comparison/sphere_quality_2.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Quality_Comparison/Sphere_quality_2.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Comparison_Page_Images/Quality_Comparison/Sphere_quality_2.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_2.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_2.webp?raw=true" width="256" />
-		</td>
-	</tr>
-	<tr align=center valign=middle>
-		<th><br>--quality 5<br><code>500%</code></th>
-		<td>-</td>
-		<td>-</td>
+    <tr align=center valign=middle>
+        <th width=148></th>
+        <th width=176><br>Alpha 1<p><code>Sphere</code></p></th>
+        <th width=176><br>Alpha 2.5 4a<p><code>Sphere</code></p></th>
+        <th width=176><br>Alpha 2.5 4b<p><code>Sphere</code></p></th>
+        <th width=176><br>Alpha 3<p><code>Galaxy</code></p></th>
+        <th width=176><br>Alpha 3.6<p><code>Galaxy</code></p></th>
+    </tr>
+    <tr align=center valign=middle>
+        <th><br>--quality 0.25<br><code>25%</code></th>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_1/Comparison_Page_Images/Quality_Comparison/sphere_quality_0.25.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Quality_Comparison/Sphere_quality_0.25.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Comparison_Page_Images/Quality_Comparison/Sphere_quality_0.25.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.25.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.25.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <th><br>--quality 0.5<br><code>50%</code></th>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_1/Comparison_Page_Images/Quality_Comparison/sphere_quality_0.5.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Quality_Comparison/Sphere_quality_0.5.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Comparison_Page_Images/Quality_Comparison/Sphere_quality_0.5.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.5.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_0.5.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <th><br>--quality 1<br><code>100% (Default)</code></th>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_1/Comparison_Page_Images/Quality_Comparison/sphere_quality_1.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Quality_Comparison/Sphere_quality_1.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Comparison_Page_Images/Quality_Comparison/Sphere_quality_1.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_1.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_1.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <th><br>--quality 2<br><code>200%</code></th>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_1/Comparison_Page_Images/Quality_Comparison/sphere_quality_2.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4a/Comparison_Page_Images/Quality_Comparison/Sphere_quality_2.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_2.5/V4_Style_4b/Comparison_Page_Images/Quality_Comparison/Sphere_quality_2.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_2.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_2.webp?raw=true" width="256" />
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <th><br>--quality 5<br><code>500%</code></th>
         <td>-</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_5.webp?raw=true" width="256" />
-		</td>
-		<td>
-			<img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_5.webp?raw=true" width="256" />
-		</td>
-	</tr>
+        <td>-</td>
+        <td>-</td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_5.webp?raw=true" width="256" />
+        </td>
+        <td>
+            <img src="/Images/MJ_V4/V4_Alpha_3.6/Comparison_Page_Images/Quality_Comparison/Galaxy_quality_5.webp?raw=true" width="256" />
+        </td>
+    </tr>
 </table>
 
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

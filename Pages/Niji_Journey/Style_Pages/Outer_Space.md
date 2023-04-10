@@ -19,20 +19,19 @@
 
 - <details><summary>☄🌌 Galaxies, Nebulae, and Other Cosmic Structures</summary><p><div align="center">
 
-	| Galaxy |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Galaxy.webp?raw=true" width="256" /> |
+    | Galaxy |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Galaxy.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Supernova |
-	| :-: |
-	| <img src="/Images/Niji_Journey/MidJourney_Styles/Supernova.webp?raw=true" width="256" /> |
+    | Supernova |
+    | :-: |
+    | <img src="/Images/Niji_Journey/MidJourney_Styles/Supernova.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

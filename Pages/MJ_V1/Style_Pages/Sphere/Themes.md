@@ -18,57 +18,57 @@
 
 - <details><summary>🎭⛱ Realism/Abstraction</summary><p><div align="center">
 
-	| Realistic | Hyperrealistic | Photorealistic |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Realistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hyperrealistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Photorealistic.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Realistic | Hyperrealistic | Photorealistic |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Realistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Hyperrealistic.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Photorealistic.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Surreal | Surrealism |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Surreal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Surrealism.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Surreal | Surrealism |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Surreal.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Surrealism.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Science Fiction |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Science_Fiction.webp?raw=true" width="256" /> |
+    | Science Fiction |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Science_Fiction.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Imagined | Imaginative | Imagination |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Imagined.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Imaginative.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Imagination.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Imagined | Imaginative | Imagination |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Imagined.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Imaginative.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Imagination.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Dreamlike | Dreamy |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dreamlike.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dreamy.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Otherworldly |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Otherworldly.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Dreamlike | Dreamy |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dreamlike.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dreamy.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Otherworldly |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Otherworldly.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Ethereal |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Ethereal.webp?raw=true" width="256" /> |
+    | Ethereal |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Ethereal.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Abstract |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Abstract.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Illusion |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Illusion.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Abstract |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Abstract.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Illusion |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Illusion.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -76,39 +76,39 @@
 
 - <details><summary>🎭💾 Retro/Modern</summary><p><div align="center">
 
-	| Retro |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Retro.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Vintage |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Vintage.webp?raw=true" width="256" /> |
+    | Retro |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Retro.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Vintage |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Vintage.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Cyberpunk | Postcyberpunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cyberpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Postcyberpunk.webp?raw=true" width="256" /> |
+    | Cyberpunk | Postcyberpunk |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cyberpunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Postcyberpunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Atompunk |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Atompunk.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Atompunk |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Atompunk.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Modern |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Modern.webp?raw=true" width="256" /> |
+    | Modern |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Modern.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Futuristic |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Futuristic.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Futuristic |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Futuristic.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
@@ -116,137 +116,136 @@
 
 - <details><summary>🎭🪐 Sci-fi</summary><p><div align="center">
 
-	| Sci-fi |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sci-fi.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Magic |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Magic.webp?raw=true" width="256" /> |
+    | Sci-fi |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Sci-fi.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Magic |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Magic.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭⚙ Architecture and Manufactured</summary><p><div align="center">
 
-	| Industrial Design |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Industrial_Design.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Bronzepunk | Clockpunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bronzepunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clockpunk.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Steampunk | Dieselpunk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Steampunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dieselpunk.webp?raw=true" width="256" /> |
+    | Industrial Design |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Industrial_Design.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Bronzepunk | Clockpunk |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Bronzepunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clockpunk.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Steampunk | Dieselpunk |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Steampunk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Dieselpunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Formicapunk |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Formicapunk.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Formicapunk |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Formicapunk.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Legopunk |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Legopunk.webp?raw=true" width="256" /> |
+    | Legopunk |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Legopunk.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭🎵 Music Styles</summary><p><div align="center">
 
-	| Funky | Groovy | Disco |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Funky.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Groovy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Disco.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Funky | Groovy | Disco |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Funky.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Groovy.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Disco.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Punk | Post-Punk |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Punk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Post-Punk.webp?raw=true" width="256" /> |
+    | Punk | Post-Punk |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Punk.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Post-Punk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Vaporwave | Synthwave | Chillwave |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Vaporwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Synthwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Chillwave.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Shpongle | In The Style of Shpongle |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Shpongle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_In_The_Style_of_Shpongle.webp?raw=true" width="256" /> |
+    | Vaporwave | Synthwave | Chillwave |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Vaporwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Synthwave.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Chillwave.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Shpongle | In The Style of Shpongle |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Shpongle.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_In_The_Style_of_Shpongle.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭📺 Cartoons, Anime, and Comics</summary><p><div align="center">
 
-	| Cartoon | Marvel Comics |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cartoon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Marvel_Comics.webp?raw=true" width="256" /> |
+    | Cartoon | Marvel Comics |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Cartoon.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Marvel_Comics.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Anime |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Anime.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Anime |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Anime.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭🎆 Colors, Crystals, Sparkles, and Light</summary><p><div align="center">
 
-	| Pastelpunk |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pastelpunk.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Pastelpunk |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pastelpunk.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Neonpunk |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neonpunk.webp?raw=true" width="256" /> |
+    | Neonpunk |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Neonpunk.webp?raw=true" width="256" /> |
 
-	<br>
+    <br>
 
-	| Pastelwave |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pastelwave.webp?raw=true" width="256" /> |
-	
-	<br>
-	
-	| Fractalpunk |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fractalpunk.webp?raw=true" width="256" /> |
+    | Pastelwave |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Pastelwave.webp?raw=true" width="256" /> |
+    
+    <br>
+    
+    | Fractalpunk |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Fractalpunk.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>🎭⛩ Other Themes</summary><p><div align="center">
-	
-	| Clowncore |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clowncore.webp?raw=true" width="256" /> |
+    
+    | Clowncore |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Clowncore.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Kawaii |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Kawaii.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Kawaii |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Kawaii.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

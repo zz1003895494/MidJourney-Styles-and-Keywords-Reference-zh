@@ -9,21 +9,16 @@
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V5_Alpha_active_half.webp?raw=true" alt="MidJourney V5" height="64" />](/Pages/MJ_V5/Style_Pages/Just_The_Style/Experimental.md)
 [<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Style_Pages/Experimental.md)
 
-
 </div>
 
 <hr>
 <br>
 
-
 - <details><summary>🔤 Made-up Words</summary><p><div align="center">
-
-
 
   </div></p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+	<h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

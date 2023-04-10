@@ -10,9 +10,9 @@
 
 - <details><summary>🔵 Sphere</summary><p><div align="center">
 
-	| Sphere |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
+    | Sphere |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
 
 </div></p></details>
 
@@ -24,11 +24,11 @@
 
   - <details><summary>🖼🟧 Simplicity/Complexity</summary><p><div align="center">
 
-	| Chaotic |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Chaotic.webp?raw=true" width="256" /> |
+    | Chaotic |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Chaotic.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
 
 
@@ -39,20 +39,20 @@
 
   - <details><summary>🖥📐 Resolution</summary><p><div align="center">
 
-	| 4k |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/4k.webp?raw=true" width="256" /> |
+    | 4k |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/4k.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>🖥🧠 AI and Neural Networks</summary><p><div align="center">
 
-	| Deep Dream |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Deep_Dream.webp?raw=true" width="256" /> |
+    | Deep Dream |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Deep_Dream.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
@@ -66,26 +66,26 @@
 
     - <details><summary>✏🖊 Ink</summary><p><div align="center">
 
-		| Marker Art |
-		| :-: |
-		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
+        | Marker Art |
+        | :-: |
+        | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Marker_Art.webp?raw=true" width="256" /> |
 
-	  </div></p></details>
+      </div></p></details>
 
-	</p></details>
+    </p></details>
 
 
   - <details><summary>🖌🎲 Physical Mediums</summary><p>
 
     - <details><summary>🎲🗿 Carving, Etching, and Modeling</summary><p><div align="center">
 
-		| Carved Lacquer |
-		| :-: |
-		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
+        | Carved Lacquer |
+        | :-: |
+        | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Carved_Lacquer.webp?raw=true" width="256" /> |
 
-	  </div></p></details>
-	
-	</p></details>
+      </div></p></details>
+    
+    </p></details>
   </p></details>
 
 
@@ -96,41 +96,41 @@
 
   - <details><summary>🎨🔴 Colors</summary><p>
 
-	- <details><summary>🎨🔴 Basic Colors</summary><p><div align="center">
+    - <details><summary>🎨🔴 Basic Colors</summary><p><div align="center">
 
-		| Cyan |
-		| :-: |
-		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Cyan.webp?raw=true" width="256" /> |
+        | Cyan |
+        | :-: |
+        | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Cyan.webp?raw=true" width="256" /> |
 
-	  </div></p></details>
+      </div></p></details>
 
 
     - <details><summary>🎨🔵 Extended Colors</summary><p><div align="center">
 
-		| Aqua |
-		| :-: |
-		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Aqua.webp?raw=true" width="256" /> |
+        | Aqua |
+        | :-: |
+        | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Aqua.webp?raw=true" width="256" /> |
 
-	  </div></p></details>
+      </div></p></details>
 
-	</p></details>
+    </p></details>
 
   - <details><summary>🎨🖥 Color Models</summary><p><div align="center">
 
-	| CGA |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/CGA.webp?raw=true" width="256" /> |
+    | CGA |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/CGA.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>🎨🎥 Color Motion Picture Film Systems</summary><p><div align="center">
 
-	| Technicolor |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Technicolor.webp?raw=true" width="256" /> |
+    | Technicolor |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Technicolor.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
 
 <br>
@@ -142,31 +142,31 @@
 
     - <details><summary>🧱💎 Glass and Crystal</summary><p><div align="center">
 
-		| Milky Quartz |
-		| :-: |
-		| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Milky_Quartz.webp?raw=true" width="256" /> |
+        | Milky Quartz |
+        | :-: |
+        | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Milky_Quartz.webp?raw=true" width="256" /> |
 
-	  </div></p></details>
+      </div></p></details>
 
     </p></details>
 
 
   - <details><summary>🧱💧 Liquids</summary><p><div align="center">
 
-	| Liquid Crystal |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /> |
+    | Liquid Crystal |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Liquid_Crystal.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>🧱🌫️ Gasses and Vapors</summary><p><div align="center">
 
-	| Clouds |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Clouds.webp?raw=true" width="256" /> |
+    | Clouds |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Clouds.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
 
 
@@ -177,11 +177,11 @@
 
   - <details><summary>📦💡 Luminescence</summary><p><div align="center">
 
-	| Glow-In-The-Dark |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Glow-In-The-Dark.webp?raw=true" width="256" /> |
+    | Glow-In-The-Dark |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Glow-In-The-Dark.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
 
 
@@ -192,11 +192,11 @@
 
   - <details><summary>💡🪔 Lamps and Tubes</summary><p><div align="center">
 
-	| Plasma Globe |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Plasma_Globe.webp?raw=true" width="256" /> |
+    | Plasma Globe |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Plasma_Globe.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
 
 
@@ -207,20 +207,20 @@
 
   - <details><summary>🌈🔍 Reflections</summary><p><div align="center">
 
-	| Ray Tracing Reflections |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /> |
+    | Ray Tracing Reflections |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Ray_Tracing_Reflections.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>🌈🎨 Chromatic SFX</summary><p><div align="center">
 
-	| Chromatic Aberration |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /> |
+    | Chromatic Aberration |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Chromatic_Aberration.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
 
 
@@ -231,11 +231,11 @@
 
   - <details><summary>🌌 0D-5D</summary><p><div align="center">
 
-	| 2-Dimensional |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/2-Dimensional.webp?raw=true" width="256" /> |
+    | 2-Dimensional |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/2-Dimensional.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
 
 
@@ -246,13 +246,13 @@
 
   - <details><summary>🌲🍄 Fungi</summary><p><div align="center">
 
-	| Lactarius-Indigo |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Lactarius-Indigo.webp?raw=true" width="256" /> |
+    | Lactarius-Indigo |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Lactarius-Indigo.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
@@ -264,11 +264,11 @@
 
   - <details><summary>☄🌌 Galaxies, Nebulae, and Other Cosmic Structures</summary><p><div align="center">
 
-	| Supernova |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Supernova.webp?raw=true" width="256" /> |
+    | Supernova |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Supernova.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
@@ -280,11 +280,11 @@
 
   - <details><summary>📷🌇 Camera and Scenes</summary><p><div align="center">
 
-	| Cinematic |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Cinematic.webp?raw=true" width="256" /> |
+    | Cinematic |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Cinematic.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
 
 
@@ -295,20 +295,20 @@
 
   - <details><summary>💠⬜ 2D Shapes</summary><p><div align="center">
 
-	| Hexagonal |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Hexagonal.webp?raw=true" width="256" /> |
+    | Hexagonal |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Hexagonal.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
 
   - <details><summary>💠🧊 3D Shapes</summary><p><div align="center">
 
-	| Sphere |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
+    | Sphere |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Sphere.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
   </p></details>
 
 
@@ -319,16 +319,15 @@
 
   - <details><summary>➰😁 Emotions and Qualities</summary><p><div align="center">
 
-	| Happy |
-	| :-: |
-	| <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Happy.webp?raw=true" width="256" /> |
+    | Happy |
+    | :-: |
+    | <img src="/Images/Midjourney_Beta_Features/test_creative/Midjourney_Styles/Happy.webp?raw=true" width="256" /> |
 
-	</div></p></details>
+    </div></p></details>
 
   </p></details>
 
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

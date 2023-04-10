@@ -1,6 +1,6 @@
 <h2>📇 V1 vs V2 vs V3</h2>
 
-<hr><!--------------->
+<hr>
 
 <br>
 
@@ -619,12 +619,9 @@
     </tr>
 </table>
 
-
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

@@ -1,10 +1,10 @@
 <h2>🔠 Text In Image Comparison</h2>
 
-<hr><!--------------->
+<hr>
 
 <h6><a href="https://github.com/firmianay/MidJourney-Styles-and-Keywords-Reference-zh/wiki/%E2%9D%94-How-To-Guide#-creating-an-image">❔ How To Create an Image</a></h6>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -72,9 +72,7 @@
 
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+	<h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

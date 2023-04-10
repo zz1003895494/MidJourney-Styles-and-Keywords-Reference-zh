@@ -1,6 +1,6 @@
 <h2>🌪💎 --chaos/--quality Cross Analysis</h2>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -77,9 +77,7 @@
 
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+	<h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

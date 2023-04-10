@@ -785,7 +785,7 @@
 
 <br>
 
-<hr><!--------------->
+<hr>
 <div align="center">
 <h6><a href="/Pages/Comparison_Pages/Version_Comparison/MJ_V4/V4_Alpha.md">⬅ Go Back To Version Comparison</a></h6>
 </div>

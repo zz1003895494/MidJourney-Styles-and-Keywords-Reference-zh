@@ -18,52 +18,52 @@
 
 - <details><summary>♻➰ Spirals</summary><p><div align="center">
 
-	| Whirl | Spiraling | Spiral |
-	| :-: | :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Whirl.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spiraling.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spiral.webp?raw=true" width="256" /> |
-	
-	<br>
+    | Whirl | Spiraling | Spiral |
+    | :-: | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Whirl.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spiraling.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Spiral.webp?raw=true" width="256" /> |
+    
+    <br>
 
-	| Helix | Double-Helix |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Helix.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Double-Helix.webp?raw=true" width="256" /> |
+    | Helix | Double-Helix |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Helix.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Double-Helix.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>♻〰 Curves and Waves</summary><p><div align="center">
 
-	| Wavy |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wavy.webp?raw=true" width="256" /> |
+    | Wavy |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Wavy.webp?raw=true" width="256" /> |
 
-	<br>
-	
-	| Squiggly |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Squiggly.webp?raw=true" width="256" /> |
+    <br>
+    
+    | Squiggly |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Squiggly.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>♻🕸 Knots</summary><p><div align="center">
 
-	| Celtic Knot |
-	| :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Celtic_Knot.webp?raw=true" width="256" /> |
+    | Celtic Knot |
+    | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Celtic_Knot.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
 
 - <details><summary>♻⭕ Circular</summary><p><div align="center">
 
-	| Concentric | Concentric Circles |
-	| :-: | :-: |
-	| <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric_Circles.webp?raw=true" width="256" /> |
+    | Concentric | Concentric Circles |
+    | :-: | :-: |
+    | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric.webp?raw=true" width="256" /> | <img src="/Images/MJ_V1/Midjourney_Styles_(sphere)/sphere_Concentric_Circles.webp?raw=true" width="256" /> |
 
   </div></p></details>
 
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>

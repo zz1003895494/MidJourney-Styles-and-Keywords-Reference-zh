@@ -2,7 +2,7 @@
 <b>The Stylize Parameter will make your image more stylized.</b>
 <br>
 
-<hr><!--------------->
+<hr>
 
 <div align="center">
 
@@ -156,9 +156,7 @@
 
 </div>
 
-<br>
-
-<hr><!--------------->
+<hr>
 <div align="center">
-<h6><a href="/README.md">⬅ 返回主页</a></h6>
+    <h6><a href="/README.md">⬅ 返回主页</a></h6>
 </div>
