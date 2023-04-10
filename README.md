@@ -5,7 +5,6 @@
   <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
   <img alt="Midjourney Styles and Keywords Reference" src="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
 </picture>
-<br><br>
 
 <hr>
 
@@ -240,7 +239,7 @@
     <img alt="🗜 Compound Word Comparison" src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_compound_word_format.webp?raw=true" width = 249>
   </picture></a>
 
-  <br><br>
+  <br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/prompt_parameters.webp?raw=true" width = 758>
@@ -280,7 +279,7 @@
     <img alt="🏋️‍ Image Weight Comparison" src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_image_weight.webp?raw=true" width = 249>
   </picture></a>
 
-  <br><br>
+  <br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/image_resolution_and_upscaling.webp?raw=true" width = 758>
@@ -299,7 +298,7 @@
     <img alt="🚀 Image Upscale Comparison" src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/Differed_Lengths/button_image_upscaling_half.webp?raw=true" width = 377>
   </picture></a>
 
-  <br><br>
+  <br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/cross_analysis_pages.webp?raw=true" width = 758>
@@ -323,7 +322,7 @@
     <img alt="🌪💎 --chaos/--quality Cross Analysis" src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Pages/button_chaos_quality.webp?raw=true" width = 249>
   </picture></a>
 
-  <br><br>
+  <br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Comparison_Page_Category_Labels/remix_and_remaster.webp?raw=true" width = 758>
@@ -363,4 +362,8 @@
   </picture></a>
 </div>
 
-原仓库地址：https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
+<hr>
+
+https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
+
+[![Stargazers over time](https://starchart.cc/firmianay/MidJourney-Styles-and-Keywords-Reference-zh.svg)](https://starchart.cc/firmianay/MidJourney-Styles-and-Keywords-Reference-zh)
