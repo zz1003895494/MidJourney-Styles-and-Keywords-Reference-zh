@@ -44,19 +44,19 @@
   <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Rainbow_of_Colors.md"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width=758>
     <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors_light.webp?raw=true" width=758>
-    <img alt="🌈 Rainbow of Midjourney Colors" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width=758>
+    <img alt="🌈 彩虹的中途颜色 " src="/Images/Repo_Parts/Buttons/Style_Buttons/button_rainbow_of_midjourney_colors.webp?raw=true" width=758>
   </picture></a>
   <br>
   <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Emojis.md"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_emojis.webp?raw=true" width=758>
     <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_emojis_light.webp?raw=true" width=758>
-    <img alt="😊 Emojis" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_emojis.webp?raw=true" width=758>
+    <img alt="😊 表情符号" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_emojis.webp?raw=true" width=758>
     </picture></a>
   <br>
   <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Themes.md"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_themes.webp?raw=true" width = 249>
     <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_themes_light.webp?raw=true" width = 249>
-    <img alt="🎭 Themes" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_themes.webp?raw=true" width = 249>
+    <img alt="🎭 组件" src="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_themes.webp?raw=true" width = 249>
   </picture></a>
   <a href="/Pages/MJ_V4/Style_Pages/Just_The_Style/Design_Styles.md"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Buttons/Style_Buttons/button_style_design_styles.webp?raw=true" width = 249>
